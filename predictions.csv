@@ -1,0 +1,2317 @@
+date,junction_name,predicted_violations
+2024-03-08,No Junction,923.6303
+2024-03-09,BTP051 - Safina Plaza Junction,42.122513
+2024-03-09,"BTP117 - 9th Cross, Kanakapura Road",6.9341993
+2024-03-09,BTP010 - Rajajinagar Entrance,6.3619676
+2024-03-09,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",11.024708
+2024-03-09,"BTP022 - Marenahalli Junction, Vijayanagar",10.068752
+2024-03-09,BTP023 - Mahalaxmi Layout Entrance,10.441607
+2024-03-09,BTP027 - Modi Bridge Junction,19.99946
+2024-03-09,BTP040 - Elite Junction,85.959305
+2024-03-09,BTP032 - Windsor Circle,7.9319544
+2024-03-09,BTP038 - Mysore Bank Junction,10.456231
+2024-03-09,BTP042 - Minsk Square Junction (CTO),15.140139
+2024-03-09,BTP043 - Upparpet Junction,11.592955
+2024-03-09,BTP044 - Sagar Theatre Junction,70.54852
+2024-03-09,BTP045 - Danvanthri Road Junction,23.02233
+2024-03-09,BTP048 - Shanthala Junction,29.717857
+2024-03-09,BTP028 - Vijayanagar Bus Stand Junction,9.675079
+2024-03-09,BTP057 - Anand Rao Junction,18.034983
+2024-03-09,BTP085 - Briyand Circle,4.6045976
+2024-03-09,BTP061 - Bhashyam Circle,9.003691
+2024-03-09,"BTP083 - AS Char Street, Mysore Road",19.758415
+2024-03-09,"BTP115 - Sahasra Hospital, Jayanagar",5.818438
+2024-03-09,BTP063 - Siddalingaiah Circle,4.5214705
+2024-03-09,BTP067 - Jai Muni Rao Circle,3.7208877
+2024-03-09,BTP069 - MC Circle,10.562544
+2024-03-09,"BTP070 - Cholurpalya Junction, Magadi Road",8.166032
+2024-03-09,BTP071 - Prasanna Junction,6.933113
+2024-03-09,"BTP001 - 10th Cross, Dr. Rajkumar Road",31.393244
+2024-03-09,"BTP080 - NR Road, SP Road Junction",21.1406
+2024-03-09,BTP096 - Gali Anjaneya Temple,13.8622875
+2024-03-09,"BTP095 - Satellite Bus Stand, Mysore Road",5.761559
+2024-03-09,BTP108 - Tagore Park Junction,12.93817
+2024-03-09,BTP098 - Nayandahalli Junction,3.627172
+2024-03-09,"BTP102 - BMTC Junction, KH Road",4.463771
+2024-03-09,BTP103 - Shanti Nagar TTMC,3.1248293
+2024-03-09,BTP104 - Medical College Circle,11.944023
+2024-03-09,BTP082 - KR Market Junction,81.050476
+2024-03-09,"BTP188 - 27th Cross, 4th Main, Jayanagar",4.935603
+2024-03-09,BTP058 - Subbanna Junction,21.651428
+2024-03-09,BTP208 - Havanur Circle,7.816738
+2024-03-09,"BTP123 - 10th Cross, Wilson Garden",6.7159157
+2024-03-09,BTP130 - GD Mara Junction,7.7212167
+2024-03-09,BTP133 - Adugodi Junction,3.1248293
+2024-03-09,BTP134 - Mico Bande,3.1248293
+2024-03-09,BTP135 - UCO Bank Junction,11.9774885
+2024-03-09,BTP158 - Devegowda Petrol Bunk,3.2786546
+2024-03-09,"BTP159 - JP Nagar Metro, ORR",3.1248293
+2024-03-09,BTP137 - Madiwala Traffic PS Junction,6.7159157
+2024-03-09,BTP167 - JC Road Junction,3.9674969
+2024-03-09,"BTP168 - MSR Building, JC Road",4.063712
+2024-03-09,"BTP170 - Dr. Bheem Rao Palace, Chord Road",8.640987
+2024-03-09,BTP171 - Indian Express (Balekundri),6.053131
+2024-03-09,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",3.533609
+2024-03-09,"BTP177 - Aurobindo Circle, ORR",6.053131
+2024-03-09,BTP118 - Basappa Circle,3.6620436
+2024-03-09,"BTP164 - 29th Main Road, BTM Layout",5.04344
+2024-03-09,BTP184 - Lalbagh West Gate,3.2786546
+2024-03-09,BTP180 - Swagath Poornima Theatre,4.5745173
+2024-03-09,BTP187 - South End Circle,3.1248293
+2024-03-09,BTP205 - Modi Hospital Junction,8.5209465
+2024-03-09,"BTP190 - 36th Cross, 4th Main, Jayanagar",3.1248293
+2024-03-09,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.1248293
+2024-03-09,BTP192 - Urvashi Theater,5.591086
+2024-03-09,BTP193 - Vasavi Circle,3.1248293
+2024-03-09,"BTP189 - New Diagonal Road, Jayanagar",6.452411
+2024-03-09,"BTP206 - Shankara Mutt Circle, Vijayanagar",5.809561
+2024-03-09,BTP211 - Central Street Junction,47.568058
+2024-03-09,"BTP204 - ESI Hospital, Rajajinagar",10.048688
+2024-03-09,BTP218 - Syndicate Bank Junction,4.5611672
+2024-03-09,BTP219 - Canara Bank Junction,4.6111603
+2024-03-09,BTP220 - Puttanna Junction,5.4286923
+2024-03-09,"BTP221 - 15th Cross, 24th Main, JP Nagar",4.4924216
+2024-03-09,BTP222 - Delmia Circle,3.0724587
+2024-03-09,BTP120 - Lalbagh Main Gate Junction,3.1248293
+2024-03-09,No Junction,1027.7346
+2024-03-09,BTP185 - RV Teachers College,3.8424957
+2024-03-10,"BTP001 - 10th Cross, Dr. Rajkumar Road",30.428827
+2024-03-10,BTP008 - Navarang Theatre,5.587362
+2024-03-10,"BTP015 - Suguna Hospital, Dr. Rajkumar Road",5.8597364
+2024-03-10,BTP018 - Dhobi Ghat Junction,4.06751
+2024-03-10,"BTP022 - Marenahalli Junction, Vijayanagar",10.512725
+2024-03-10,BTP023 - Mahalaxmi Layout Entrance,18.739712
+2024-03-10,BTP042 - Minsk Square Junction (CTO),14.2437315
+2024-03-10,BTP043 - Upparpet Junction,9.8148155
+2024-03-10,BTP108 - Tagore Park Junction,8.466978
+2024-03-10,BTP032 - Windsor Circle,11.453539
+2024-03-10,BTP034 - LRDE Junction,3.7901216
+2024-03-10,BTP038 - Mysore Bank Junction,9.524619
+2024-03-10,BTP040 - Elite Junction,59.524338
+2024-03-10,"BTP024 - NPS, Vijayanagar",4.595748
+2024-03-10,"BTP026 - 1st Block Junction, Rajajinagar",5.6282616
+2024-03-10,BTP044 - Sagar Theatre Junction,85.55922
+2024-03-10,"BTP080 - NR Road, SP Road Junction",33.470272
+2024-03-10,BTP048 - Shanthala Junction,21.903395
+2024-03-10,BTP106 - VV Puram College,3.6748216
+2024-03-10,"BTP070 - Cholurpalya Junction, Magadi Road",11.235971
+2024-03-10,BTP051 - Safina Plaza Junction,172.41771
+2024-03-10,BTP054 - Shivananda Circle,3.9703028
+2024-03-10,BTP057 - Anand Rao Junction,20.788776
+2024-03-10,BTP058 - Subbanna Junction,33.434563
+2024-03-10,BTP061 - Bhashyam Circle,10.651123
+2024-03-10,BTP069 - MC Circle,8.127076
+2024-03-10,BTP082 - KR Market Junction,108.04438
+2024-03-10,BTP071 - Prasanna Junction,6.841659
+2024-03-10,"BTP083 - AS Char Street, Mysore Road",23.220226
+2024-03-10,BTP085 - Briyand Circle,4.7261457
+2024-03-10,BTP096 - Gali Anjaneya Temple,10.236473
+2024-03-10,BTP104 - Medical College Circle,9.014223
+2024-03-10,BTP045 - Danvanthri Road Junction,30.217365
+2024-03-10,BTP027 - Modi Bridge Junction,25.065275
+2024-03-10,BTP067 - Jai Muni Rao Circle,5.062667
+2024-03-10,BTP219 - Canara Bank Junction,4.3577952
+2024-03-10,BTP192 - Urvashi Theater,7.88697
+2024-03-10,"BTP189 - New Diagonal Road, Jayanagar",4.1586146
+2024-03-10,BTP121 - KH Circle,3.144028
+2024-03-10,"BTP123 - 10th Cross, Wilson Garden",5.813696
+2024-03-10,BTP128 - Gorappanapalya Junction,3.3652442
+2024-03-10,BTP130 - GD Mara Junction,8.121412
+2024-03-10,"BTP117 - 9th Cross, Kanakapura Road",3.2259312
+2024-03-10,BTP135 - UCO Bank Junction,11.996688
+2024-03-10,BTP134 - Mico Bande,4.4829698
+2024-03-10,BTP137 - Madiwala Traffic PS Junction,6.4375243
+2024-03-10,BTP167 - JC Road Junction,5.0772123
+2024-03-10,BTP172 - Nanjappa Circle,8.652508
+2024-03-10,"BTP177 - Aurobindo Circle, ORR",6.07233
+2024-03-10,"BTP182 - 19th Main Junction, Rajajinagar",7.7404156
+2024-03-10,BTP184 - Lalbagh West Gate,4.636795
+2024-03-10,BTP119 - Minerva Circle,3.144028
+2024-03-10,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.144028
+2024-03-10,BTP132 - Anepalya Junction,3.4795678
+2024-03-10,BTP193 - Vasavi Circle,6.4209237
+2024-03-10,BTP211 - Central Street Junction,41.217728
+2024-03-10,"BTP200 - 15th Cross, 33rd Main, JP Nagar",3.8616943
+2024-03-10,BTP205 - Modi Hospital Junction,9.141234
+2024-03-10,"BTP206 - Shankara Mutt Circle, Vijayanagar",8.771344
+2024-03-10,BTP207 - 8th Main Road Basaveshwara Nagar,4.004535
+2024-03-10,BTP212 - Minto Junction,3.2114193
+2024-03-10,BTP215 - Vanivillas Junction,3.1590488
+2024-03-10,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.6241353
+2024-03-10,BTP218 - Syndicate Bank Junction,5.79333
+2024-03-10,BTP220 - Puttanna Junction,3.1590488
+2024-03-10,BTP225 - Geetha Junction,3.0916574
+2024-03-10,"BTP226 - 33rd Cross, 11th Main, Jayanagar",3.7101471
+2024-03-10,No Junction,900.7658
+2024-03-10,BTP118 - Basappa Circle,3.6812422
+2024-03-10,BTP217 - Baleyele Junction,3.3128736
+2024-03-11,BTP040 - Elite Junction,66.04935
+2024-03-11,BTP048 - Shanthala Junction,16.08369
+2024-03-11,BTP045 - Danvanthri Road Junction,17.739489
+2024-03-11,BTP044 - Sagar Theatre Junction,83.38823
+2024-03-11,BTP043 - Upparpet Junction,13.165972
+2024-03-11,BTP038 - Mysore Bank Junction,9.456164
+2024-03-11,BTP051 - Safina Plaza Junction,41.715252
+2024-03-11,BTP027 - Modi Bridge Junction,40.287174
+2024-03-11,"BTP024 - NPS, Vijayanagar",4.627273
+2024-03-11,BTP020 - Hosahalli Metro Station,19.692516
+2024-03-11,BTP010 - Rajajinagar Entrance,5.9524813
+2024-03-11,BTP008 - Navarang Theatre,10.365847
+2024-03-11,"BTP001 - 10th Cross, Dr. Rajkumar Road",26.28197
+2024-03-11,BTP032 - Windsor Circle,9.939659
+2024-03-11,BTP052 - CID Carlton House Junction,6.1499496
+2024-03-11,"BTP095 - Satellite Bus Stand, Mysore Road",6.0461006
+2024-03-11,BTP058 - Subbanna Junction,36.73926
+2024-03-11,BTP061 - Bhashyam Circle,10.293924
+2024-03-11,BTP096 - Gali Anjaneya Temple,10.603943
+2024-03-11,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.6011705
+2024-03-11,"BTP070 - Cholurpalya Junction, Magadi Road",21.894047
+2024-03-11,BTP071 - Prasanna Junction,4.94782
+2024-03-11,BTP074 - Leprosy Hospital Junction,4.884855
+2024-03-11,BTP023 - Mahalaxmi Layout Entrance,15.304263
+2024-03-11,BTP075 - Police Corner,3.4081202
+2024-03-11,"BTP080 - NR Road, SP Road Junction",18.817984
+2024-03-11,BTP082 - KR Market Junction,96.48693
+2024-03-11,"BTP083 - AS Char Street, Mysore Road",19.175201
+2024-03-11,"BTP089 - Police Quarters, Sultan Road",3.4081202
+2024-03-11,"BTP094 - Sri Skanda Complex, Mysore Road",3.4081202
+2024-03-11,BTP057 - Anand Rao Junction,17.4722
+2024-03-11,BTP085 - Briyand Circle,3.475512
+2024-03-11,BTP077 - Halasuru Gate Junction,3.4081202
+2024-03-11,BTP212 - Minto Junction,5.8585534
+2024-03-11,BTP211 - Central Street Junction,42.689026
+2024-03-11,BTP128 - Gorappanapalya Junction,5.747808
+2024-03-11,BTP140 - Madiwala Check Post,3.4198985
+2024-03-11,BTP137 - Madiwala Traffic PS Junction,4.8584695
+2024-03-11,BTP135 - UCO Bank Junction,12.109184
+2024-03-11,"BTP123 - 10th Cross, Wilson Garden",6.130151
+2024-03-11,BTP180 - Swagath Poornima Theatre,3.4198985
+2024-03-11,BTP118 - Basappa Circle,3.6957383
+2024-03-11,"BTP117 - 9th Cross, Kanakapura Road",3.5737243
+2024-03-11,BTP109 - Dewan Madhava Rao Junction,3.3778977
+2024-03-11,BTP108 - Tagore Park Junction,8.894085
+2024-03-11,BTP106 - VV Puram College,12.5741825
+2024-03-11,BTP105 - Shivasankara Circle,3.5737243
+2024-03-11,BTP122 - Siddapura Junction,4.503886
+2024-03-11,"BTP182 - 19th Main Junction, Rajajinagar",9.404552
+2024-03-11,BTP104 - Medical College Circle,10.230225
+2024-03-11,BTP133 - Adugodi Junction,3.1649446
+2024-03-11,No Junction,801.02515
+2024-03-11,BTP192 - Urvashi Theater,5.9267397
+2024-03-11,BTP193 - Vasavi Circle,6.265761
+2024-03-11,BTP196 - Sarakki Main Road,3.1649446
+2024-03-11,"BTP206 - Shankara Mutt Circle, Vijayanagar",12.763294
+2024-03-11,BTP207 - 8th Main Road Basaveshwara Nagar,4.2568088
+2024-03-11,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.645052
+2024-03-11,"BTP202 - East End Main Road, Jayanagar",3.1649446
+2024-03-11,"BTP189 - New Diagonal Road, Jayanagar",4.179531
+2024-03-11,BTP214 - 5th Main Chamrajpet  Junction,3.3861609
+2024-03-11,BTP215 - Vanivillas Junction,4.3787117
+2024-03-11,BTP216 - Yediyur Junction,3.112574
+2024-03-11,"BTP221 - 15th Cross, 24th Main, JP Nagar",3.3337903
+2024-03-11,BTP098 - Nayandahalli Junction,3.6672873
+2024-03-11,BTP225 - Geetha Junction,4.3787117
+2024-03-12,"BTP015 - Suguna Hospital, Dr. Rajkumar Road",5.130586
+2024-03-12,BTP098 - Nayandahalli Junction,6.4961996
+2024-03-12,BTP010 - Rajajinagar Entrance,7.1854353
+2024-03-12,BTP009 - Prakash Nagar Junction,33.14762
+2024-03-12,BTP006 - Navarang Bar Junction,4.602472
+2024-03-12,"BTP001 - 10th Cross, Dr. Rajkumar Road",16.279572
+2024-03-12,BTP018 - Dhobi Ghat Junction,6.63101
+2024-03-12,BTP043 - Upparpet Junction,10.815088
+2024-03-12,BTP008 - Navarang Theatre,16.25541
+2024-03-12,BTP020 - Hosahalli Metro Station,24.100304
+2024-03-12,BTP034 - LRDE Junction,3.8216467
+2024-03-12,BTP023 - Mahalaxmi Layout Entrance,15.378139
+2024-03-12,"BTP026 - 1st Block Junction, Rajajinagar",7.136299
+2024-03-12,BTP027 - Modi Bridge Junction,26.711456
+2024-03-12,BTP028 - Vijayanagar Bus Stand Junction,8.785276
+2024-03-12,BTP032 - Windsor Circle,9.19116
+2024-03-12,"BTP033 - Sophia High School, Sankey Road",3.8216467
+2024-03-12,BTP037 - KR Circle,3.8216467
+2024-03-12,BTP038 - Mysore Bank Junction,9.53004
+2024-03-12,BTP040 - Elite Junction,64.48961
+2024-03-12,BTP044 - Sagar Theatre Junction,66.875496
+2024-03-12,"BTP022 - Marenahalli Junction, Vijayanagar",9.167405
+2024-03-12,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.7006927
+2024-03-12,BTP061 - Bhashyam Circle,9.046066
+2024-03-12,BTP045 - Danvanthri Road Junction,21.309679
+2024-03-12,BTP051 - Safina Plaza Junction,83.80806
+2024-03-12,BTP067 - Jai Muni Rao Circle,3.761003
+2024-03-12,BTP071 - Prasanna Junction,7.158114
+2024-03-12,"BTP070 - Cholurpalya Junction, Magadi Road",11.067633
+2024-03-12,BTP068 - Veeresh Theatre Junction,4.856775
+2024-03-12,BTP058 - Subbanna Junction,37.132454
+2024-03-12,BTP064 - Devanga Hostel Junction,3.5337787
+2024-03-12,BTP096 - Gali Anjaneya Temple,8.038581
+2024-03-12,BTP057 - Anand Rao Junction,20.31561
+2024-03-12,BTP078 - NR Square Junction,4.8749094
+2024-03-12,BTP074 - Leprosy Hospital Junction,8.670719
+2024-03-12,"BTP093 - Toll Gate, Mysore Road",3.4081202
+2024-03-12,BTP079 - Town Hall Junction,3.4081202
+2024-03-12,"BTP080 - NR Road, SP Road Junction",24.080263
+2024-03-12,BTP082 - KR Market Junction,46.297714
+2024-03-12,"BTP083 - AS Char Street, Mysore Road",22.669401
+2024-03-12,BTP085 - Briyand Circle,5.019626
+2024-03-12,BTP091 - Sirsi Circle,4.747062
+2024-03-12,BTP092 - Bangalore Builders Junction,3.475512
+2024-03-12,"BTP094 - Sri Skanda Complex, Mysore Road",4.0331583
+2024-03-12,"BTP095 - Satellite Bus Stand, Mysore Road",6.411277
+2024-03-12,BTP048 - Shanthala Junction,15.745123
+2024-03-12,BTP104 - Medical College Circle,9.025543
+2024-03-12,BTP042 - Minsk Square Junction (CTO),12.544946
+2024-03-12,BTP180 - Swagath Poornima Theatre,4.6146326
+2024-03-12,BTP171 - Indian Express (Balekundri),3.3861609
+2024-03-12,BTP105 - Shivasankara Circle,5.704728
+2024-03-12,BTP106 - VV Puram College,5.912812
+2024-03-12,BTP107 - National College Junction,3.232336
+2024-03-12,"BTP115 - Sahasra Hospital, Jayanagar",3.3861609
+2024-03-12,"BTP117 - 9th Cross, Kanakapura Road",8.093252
+2024-03-12,BTP118 - Basappa Circle,8.890284
+2024-03-12,BTP119 - Minerva Circle,3.1649446
+2024-03-12,BTP126 - Dairy Circle,3.1649446
+2024-03-12,"BTP127 - Sagar Hospital, Jayanagar",3.1649446
+2024-03-12,"BTP113 - 27th Cross, Pai Vista, KR Road",2.6163664
+2024-03-12,BTP135 - UCO Bank Junction,19.180733
+2024-03-12,BTP158 - Devegowda Petrol Bunk,2.998493
+2024-03-12,"BTP170 - Dr. Bheem Rao Palace, Chord Road",6.130151
+2024-03-12,BTP136 - Hosur-Tavarkere Road Junction,3.1649446
+2024-03-12,"BTP102 - BMTC Junction, KH Road",3.1649446
+2024-03-12,"BTP159 - JP Nagar Metro, ORR",3.1649446
+2024-03-12,"BTP148 - 17th Main, Doopanahalli Bus Stop",4.68596
+2024-03-12,BTP140 - Madiwala Check Post,3.3778977
+2024-03-12,BTP138 - Sarjapur Road Check Post,2.6163664
+2024-03-12,BTP137 - Madiwala Traffic PS Junction,6.130151
+2024-03-12,BTP132 - Anepalya Junction,5.593982
+2024-03-12,BTP172 - Nanjappa Circle,8.1945305
+2024-03-12,BTP166 - Coffee Board Junction,3.1649446
+2024-03-12,"BTP182 - 19th Main Junction, Rajajinagar",10.285259
+2024-03-12,BTP214 - 5th Main Chamrajpet  Junction,4.726457
+2024-03-12,BTP187 - South End Circle,3.1649446
+2024-03-12,"BTP189 - New Diagonal Road, Jayanagar",7.3955746
+2024-03-12,BTP192 - Urvashi Theater,4.6698465
+2024-03-12,BTP196 - Sarakki Main Road,4.503886
+2024-03-12,BTP203 - RRMR Junction,3.232336
+2024-03-12,"BTP204 - ESI Hospital, Rajajinagar",6.130151
+2024-03-12,BTP205 - Modi Hospital Junction,7.4224167
+2024-03-12,"BTP206 - Shankara Mutt Circle, Vijayanagar",10.417311
+2024-03-12,BTP207 - 8th Main Road Basaveshwara Nagar,8.810043
+2024-03-12,"BTP191 - 40th Cross, 4th Main, Jayanagar",4.503886
+2024-03-12,BTP211 - Central Street Junction,29.084084
+2024-03-12,BTP208 - Havanur Circle,8.70949
+2024-03-12,BTP225 - Geetha Junction,4.3787117
+2024-03-12,BTP220 - Puttanna Junction,3.3337903
+2024-03-12,BTP219 - Canara Bank Junction,3.3337903
+2024-03-12,"BTP221 - 15th Cross, 24th Main, JP Nagar",3.3337903
+2024-03-12,BTP217 - Baleyele Junction,5.733379
+2024-03-12,BTP103 - Shanti Nagar TTMC,3.1649446
+2024-03-12,BTP212 - Minto Junction,5.8585534
+2024-03-12,BTP218 - Syndicate Bank Junction,3.3700082
+2024-03-12,No Junction,950.7406
+2024-03-13,BTP038 - Mysore Bank Junction,11.012897
+2024-03-13,"BTP016 - 5th Main Road, RPC Layout",7.8321667
+2024-03-13,BTP106 - VV Puram College,6.9118266
+2024-03-13,"BTP001 - 10th Cross, Dr. Rajkumar Road",13.156822
+2024-03-13,BTP008 - Navarang Theatre,15.903481
+2024-03-13,BTP010 - Rajajinagar Entrance,8.245544
+2024-03-13,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",15.66863
+2024-03-13,"BTP025 - Puttamma Choultry, Nagarbhavi",5.817859
+2024-03-13,BTP020 - Hosahalli Metro Station,37.223183
+2024-03-13,BTP023 - Mahalaxmi Layout Entrance,20.05106
+2024-03-13,"BTP024 - NPS, Vijayanagar",4.6655746
+2024-03-13,"BTP026 - 1st Block Junction, Rajajinagar",7.107209
+2024-03-13,BTP027 - Modi Bridge Junction,26.441761
+2024-03-13,BTP032 - Windsor Circle,7.929121
+2024-03-13,BTP040 - Elite Junction,63.65841
+2024-03-13,BTP018 - Dhobi Ghat Junction,6.63101
+2024-03-13,BTP028 - Vijayanagar Bus Stand Junction,10.397652
+2024-03-13,BTP061 - Bhashyam Circle,8.482199
+2024-03-13,"BTP102 - BMTC Junction, KH Road",3.135855
+2024-03-13,BTP034 - LRDE Junction,5.553685
+2024-03-13,BTP045 - Danvanthri Road Junction,16.511003
+2024-03-13,BTP071 - Prasanna Junction,6.1904116
+2024-03-13,BTP051 - Safina Plaza Junction,59.897728
+2024-03-13,BTP054 - Shivananda Circle,3.8022969
+2024-03-13,BTP057 - Anand Rao Junction,27.523178
+2024-03-13,BTP058 - Subbanna Junction,29.974918
+2024-03-13,BTP044 - Sagar Theatre Junction,61.497025
+2024-03-13,BTP068 - Veeresh Theatre Junction,4.827685
+2024-03-13,BTP074 - Leprosy Hospital Junction,8.64163
+2024-03-13,BTP079 - Town Hall Junction,3.3790305
+2024-03-13,BTP043 - Upparpet Junction,14.383253
+2024-03-13,BTP082 - KR Market Junction,72.90824
+2024-03-13,"BTP083 - AS Char Street, Mysore Road",19.600111
+2024-03-13,"BTP093 - Toll Gate, Mysore Road",3.7315047
+2024-03-13,"BTP101 - Blood Bank Circle, KH Road",3.5708067
+2024-03-13,"BTP080 - NR Road, SP Road Junction",25.274195
+2024-03-13,"BTP022 - Marenahalli Junction, Vijayanagar",10.99211
+2024-03-13,BTP108 - Tagore Park Junction,8.0277815
+2024-03-13,BTP126 - Dairy Circle,3.135855
+2024-03-13,BTP133 - Adugodi Junction,3.135855
+2024-03-13,"BTP168 - MSR Building, JC Road",3.3570712
+2024-03-13,BTP118 - Basappa Circle,8.424433
+2024-03-13,"BTP123 - 10th Cross, Wilson Garden",4.6407566
+2024-03-13,"BTP127 - Sagar Hospital, Jayanagar",4.74736
+2024-03-13,BTP130 - GD Mara Junction,8.408777
+2024-03-13,BTP132 - Anepalya Junction,3.2896802
+2024-03-13,BTP138 - Sarjapur Road Check Post,3.135855
+2024-03-13,BTP140 - Madiwala Check Post,6.236671
+2024-03-13,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.135855
+2024-03-13,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.4621363
+2024-03-13,"BTP159 - JP Nagar Metro, ORR",4.4747963
+2024-03-13,BTP135 - UCO Bank Junction,18.254456
+2024-03-13,BTP166 - Coffee Board Junction,5.718718
+2024-03-13,BTP104 - Medical College Circle,11.79871
+2024-03-13,BTP171 - Indian Express (Balekundri),3.5026338
+2024-03-13,BTP211 - Central Street Junction,33.191452
+2024-03-13,"BTP115 - Sahasra Hospital, Jayanagar",5.8294635
+2024-03-13,"BTP113 - 27th Cross, Pai Vista, KR Road",3.135855
+2024-03-13,"BTP206 - Shankara Mutt Circle, Vijayanagar",8.387604
+2024-03-13,"BTP186 - 9th Cross, 4th Main, Jayanagar",3.135855
+2024-03-13,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.2032464
+2024-03-13,"BTP189 - New Diagonal Road, Jayanagar",5.3234715
+2024-03-13,"BTP190 - 36th Cross, 4th Main, Jayanagar",4.4747963
+2024-03-13,"BTP182 - 19th Main Junction, Rajajinagar",8.2166395
+2024-03-13,BTP203 - RRMR Junction,4.4747963
+2024-03-13,BTP205 - Modi Hospital Junction,7.1568036
+2024-03-13,BTP192 - Urvashi Theater,6.203976
+2024-03-13,"BTP177 - Aurobindo Circle, ORR",3.5026338
+2024-03-13,BTP212 - Minto Junction,5.011932
+2024-03-13,BTP214 - 5th Main Chamrajpet  Junction,5.011932
+2024-03-13,BTP218 - Syndicate Bank Junction,4.9374437
+2024-03-13,BTP225 - Geetha Junction,5.704289
+2024-03-13,"BTP226 - 33rd Cross, 11th Main, Jayanagar",5.096468
+2024-03-13,BTP208 - Havanur Circle,19.723408
+2024-03-13,No Junction,1031.4061
+2024-03-14,BTP010 - Rajajinagar Entrance,7.610325
+2024-03-14,"BTP026 - 1st Block Junction, Rajajinagar",17.363577
+2024-03-14,BTP023 - Mahalaxmi Layout Entrance,10.87406
+2024-03-14,"BTP022 - Marenahalli Junction, Vijayanagar",8.696039
+2024-03-14,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",10.677876
+2024-03-14,BTP018 - Dhobi Ghat Junction,7.5549726
+2024-03-14,"BTP016 - 5th Main Road, RPC Layout",7.4470453
+2024-03-14,BTP028 - Vijayanagar Bus Stand Junction,9.883513
+2024-03-14,BTP020 - Hosahalli Metro Station,28.188354
+2024-03-14,BTP051 - Safina Plaza Junction,98.506516
+2024-03-14,"BTP204 - ESI Hospital, Rajajinagar",5.2865815
+2024-03-14,BTP035 - Basaweshwara Circle (LH) Junction,6.319086
+2024-03-14,BTP037 - KR Circle,3.6387925
+2024-03-14,"BTP099 - Cash Pharmacy, Residency Road",3.4170423
+2024-03-14,BTP040 - Elite Junction,72.58424
+2024-03-14,BTP042 - Minsk Square Junction (CTO),10.506092
+2024-03-14,BTP044 - Sagar Theatre Junction,64.61635
+2024-03-14,BTP045 - Danvanthri Road Junction,19.64195
+2024-03-14,BTP048 - Shanthala Junction,11.598378
+2024-03-14,BTP008 - Navarang Theatre,8.947012
+2024-03-14,BTP032 - Windsor Circle,17.514547
+2024-03-14,BTP027 - Modi Bridge Junction,21.047972
+2024-03-14,BTP061 - Bhashyam Circle,7.1955857
+2024-03-14,BTP038 - Mysore Bank Junction,11.006762
+2024-03-14,BTP068 - Veeresh Theatre Junction,5.911681
+2024-03-14,BTP071 - Prasanna Junction,6.790374
+2024-03-14,"BTP070 - Cholurpalya Junction, Magadi Road",8.613999
+2024-03-14,BTP069 - MC Circle,6.1411285
+2024-03-14,BTP067 - Jai Muni Rao Circle,3.5638783
+2024-03-14,BTP063 - Siddalingaiah Circle,4.3787313
+2024-03-14,BTP058 - Subbanna Junction,24.097872
+2024-03-14,BTP075 - Police Corner,3.225266
+2024-03-14,BTP074 - Leprosy Hospital Junction,8.855124
+2024-03-14,BTP052 - CID Carlton House Junction,3.5811405
+2024-03-14,BTP091 - Sirsi Circle,3.2926579
+2024-03-14,BTP078 - NR Square Junction,4.9646187
+2024-03-14,"BTP080 - NR Road, SP Road Junction",21.468376
+2024-03-14,BTP082 - KR Market Junction,69.57044
+2024-03-14,"BTP083 - AS Char Street, Mysore Road",25.668274
+2024-03-14,BTP085 - Briyand Circle,3.2926579
+2024-03-14,BTP054 - Shivananda Circle,5.0479293
+2024-03-14,BTP092 - Bangalore Builders Junction,3.2926579
+2024-03-14,"BTP095 - Satellite Bus Stand, Mysore Road",4.956741
+2024-03-14,BTP057 - Anand Rao Junction,16.993807
+2024-03-14,BTP076 - Hudson Circle,4.280804
+2024-03-14,BTP098 - Nayandahalli Junction,3.0814173
+2024-03-14,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.3488693
+2024-03-14,BTP103 - Shanti Nagar TTMC,4.3210316
+2024-03-14,BTP166 - Coffee Board Junction,3.2033067
+2024-03-14,BTP104 - Medical College Circle,10.387549
+2024-03-14,BTP105 - Shivasankara Circle,3.4621978
+2024-03-14,BTP106 - VV Puram College,7.9842377
+2024-03-14,BTP108 - Tagore Park Junction,8.547151
+2024-03-14,BTP077 - Halasuru Gate Junction,3.225266
+2024-03-14,"BTP115 - Sahasra Hospital, Jayanagar",5.6756988
+2024-03-14,"BTP117 - 9th Cross, Kanakapura Road",6.1926036
+2024-03-14,BTP118 - Basappa Circle,7.975128
+2024-03-14,"BTP123 - 10th Cross, Wilson Garden",8.331651
+2024-03-14,BTP096 - Gali Anjaneya Temple,7.346628
+2024-03-14,BTP137 - Madiwala Traffic PS Junction,5.6517577
+2024-03-14,BTP130 - GD Mara Junction,7.767336
+2024-03-14,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.5932007
+2024-03-14,BTP138 - Sarjapur Road Check Post,4.5935955
+2024-03-14,BTP155 - Katriguppe Junction,3.0494819
+2024-03-14,BTP136 - Hosur-Tavarkere Road Junction,2.9820905
+2024-03-14,BTP135 - UCO Bank Junction,17.66214
+2024-03-14,BTP132 - Anepalya Junction,3.7609532
+2024-03-14,"BTP159 - JP Nagar Metro, ORR",4.8067865
+2024-03-14,BTP126 - Dairy Circle,4.3210316
+2024-03-14,BTP167 - JC Road Junction,3.39087
+2024-03-14,"BTP113 - 27th Cross, Pai Vista, KR Road",4.3210316
+2024-03-14,BTP173 - TMC,2.9820905
+2024-03-14,"BTP177 - Aurobindo Circle, ORR",4.474857
+2024-03-14,BTP180 - Swagath Poornima Theatre,3.39087
+2024-03-14,BTP218 - Syndicate Bank Junction,3.389186
+2024-03-14,"BTP186 - 9th Cross, 4th Main, Jayanagar",2.8156388
+2024-03-14,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.0494819
+2024-03-14,"BTP189 - New Diagonal Road, Jayanagar",3.447977
+2024-03-14,BTP192 - Urvashi Theater,8.073995
+2024-03-14,BTP193 - Vasavi Circle,3.447977
+2024-03-14,BTP205 - Modi Hospital Junction,8.415692
+2024-03-14,"BTP182 - 19th Main Junction, Rajajinagar",8.378207
+2024-03-14,BTP207 - 8th Main Road Basaveshwara Nagar,5.6517577
+2024-03-14,"BTP170 - Dr. Bheem Rao Palace, Chord Road",4.4516134
+2024-03-14,No Junction,1080.7261
+2024-03-14,"BTP221 - 15th Cross, 24th Main, JP Nagar",2.92972
+2024-03-14,BTP220 - Puttanna Junction,3.1509361
+2024-03-14,"BTP226 - 33rd Cross, 11th Main, Jayanagar",5.9647465
+2024-03-14,BTP212 - Minto Junction,4.858167
+2024-03-14,BTP211 - Central Street Junction,33.073193
+2024-03-14,BTP208 - Havanur Circle,10.1694
+2024-03-14,BTP217 - Baleyele Junction,3.2964988
+2024-03-15,"BTP022 - Marenahalli Junction, Vijayanagar",9.230356
+2024-03-15,BTP008 - Navarang Theatre,8.897864
+2024-03-15,BTP010 - Rajajinagar Entrance,7.699663
+2024-03-15,"BTP095 - Satellite Bus Stand, Mysore Road",6.8329873
+2024-03-15,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",16.793941
+2024-03-15,BTP020 - Hosahalli Metro Station,29.906
+2024-03-15,BTP023 - Mahalaxmi Layout Entrance,13.965594
+2024-03-15,BTP040 - Elite Junction,68.56847
+2024-03-15,BTP027 - Modi Bridge Junction,26.634657
+2024-03-15,BTP028 - Vijayanagar Bus Stand Junction,8.971541
+2024-03-15,BTP038 - Mysore Bank Junction,11.2877035
+2024-03-15,BTP041 - Gopal Gowda Circle,6.383135
+2024-03-15,BTP042 - Minsk Square Junction (CTO),16.48259
+2024-03-15,BTP044 - Sagar Theatre Junction,66.598076
+2024-03-15,"BTP026 - 1st Block Junction, Rajajinagar",18.864895
+2024-03-15,BTP045 - Danvanthri Road Junction,20.181276
+2024-03-15,BTP043 - Upparpet Junction,8.868184
+2024-03-15,BTP051 - Safina Plaza Junction,61.641083
+2024-03-15,"BTP070 - Cholurpalya Junction, Magadi Road",19.774117
+2024-03-15,BTP054 - Shivananda Circle,3.8834326
+2024-03-15,BTP057 - Anand Rao Junction,22.038975
+2024-03-15,BTP058 - Subbanna Junction,37.297184
+2024-03-15,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.5076542
+2024-03-15,BTP067 - Jai Muni Rao Circle,6.754949
+2024-03-15,BTP069 - MC Circle,7.1690784
+2024-03-15,BTP085 - Briyand Circle,3.3819957
+2024-03-15,BTP071 - Prasanna Junction,9.824427
+2024-03-15,BTP052 - CID Carlton House Junction,5.1372676
+2024-03-15,BTP078 - NR Square Junction,5.982235
+2024-03-15,"BTP080 - NR Road, SP Road Junction",23.525642
+2024-03-15,BTP082 - KR Market Junction,76.0708
+2024-03-15,"BTP083 - AS Char Street, Mysore Road",32.49422
+2024-03-15,BTP048 - Shanthala Junction,10.435713
+2024-03-15,"BTP001 - 10th Cross, Dr. Rajkumar Road",21.13274
+2024-03-15,"BTP089 - Police Quarters, Sultan Road",4.653546
+2024-03-15,BTP074 - Leprosy Hospital Junction,7.794065
+2024-03-15,BTP096 - Gali Anjaneya Temple,9.795354
+2024-03-15,BTP130 - GD Mara Junction,10.675823
+2024-03-15,BTP167 - JC Road Junction,3.480208
+2024-03-15,BTP104 - Medical College Circle,11.145233
+2024-03-15,BTP108 - Tagore Park Junction,9.779927
+2024-03-15,"BTP117 - 9th Cross, Kanakapura Road",9.206399
+2024-03-15,BTP118 - Basappa Circle,8.323678
+2024-03-15,BTP128 - Gorappanapalya Junction,3.0714283
+2024-03-15,"BTP115 - Sahasra Hospital, Jayanagar",3.6464725
+2024-03-15,BTP135 - UCO Bank Junction,13.0033245
+2024-03-15,BTP140 - Madiwala Check Post,5.37592
+2024-03-15,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.6086426
+2024-03-15,"BTP163 - 16th Main Road, BTM Layout",3.0714283
+2024-03-15,"BTP159 - JP Nagar Metro, ORR",5.6542916
+2024-03-15,"BTP161 - 15th Cross, 35th Main, JP Nagar",4.990039
+2024-03-15,BTP196 - Sarakki Main Road,3.0714283
+2024-03-15,"BTP168 - MSR Building, JC Road",3.1388197
+2024-03-15,BTP100 - Richmond Circle,4.845321
+2024-03-15,BTP137 - Madiwala Traffic PS Junction,5.741096
+2024-03-15,BTP222 - Delmia Circle,3.0190578
+2024-03-15,BTP173 - TMC,4.682934
+2024-03-15,"BTP177 - Aurobindo Circle, ORR",5.765037
+2024-03-15,BTP180 - Swagath Poornima Theatre,3.3263822
+2024-03-15,BTP181 - Bileka Halli Junction,3.0714283
+2024-03-15,"BTP182 - 19th Main Junction, Rajajinagar",14.698312
+2024-03-15,BTP192 - Urvashi Theater,12.1741495
+2024-03-15,No Junction,915.9734
+2024-03-15,BTP171 - Indian Express (Balekundri),3.0714283
+2024-03-15,BTP207 - 8th Main Road Basaveshwara Nagar,8.392841
+2024-03-15,BTP208 - Havanur Circle,13.848127
+2024-03-15,BTP211 - Central Street Junction,25.99868
+2024-03-15,BTP215 - Vanivillas Junction,3.0864491
+2024-03-15,BTP216 - Yediyur Junction,3.0190578
+2024-03-15,BTP218 - Syndicate Bank Junction,4.6004534
+2024-03-15,BTP205 - Modi Hospital Junction,8.980975
+2024-03-15,BTP219 - Canara Bank Junction,3.240274
+2024-03-16,BTP027 - Modi Bridge Junction,23.542234
+2024-03-16,BTP104 - Medical College Circle,11.9774885
+2024-03-16,"BTP001 - 10th Cross, Dr. Rajkumar Road",26.92988
+2024-03-16,BTP008 - Navarang Theatre,10.501248
+2024-03-16,BTP020 - Hosahalli Metro Station,28.104162
+2024-03-16,"BTP022 - Marenahalli Junction, Vijayanagar",9.205757
+2024-03-16,BTP032 - Windsor Circle,10.296551
+2024-03-16,BTP028 - Vijayanagar Bus Stand Junction,8.624188
+2024-03-16,BTP048 - Shanthala Junction,11.592955
+2024-03-16,BTP038 - Mysore Bank Junction,10.436807
+2024-03-16,BTP040 - Elite Junction,43.661385
+2024-03-16,BTP043 - Upparpet Junction,10.236586
+2024-03-16,BTP051 - Safina Plaza Junction,64.81942
+2024-03-16,BTP044 - Sagar Theatre Junction,69.233215
+2024-03-16,BTP023 - Mahalaxmi Layout Entrance,14.490652
+2024-03-16,BTP010 - Rajajinagar Entrance,6.968073
+2024-03-16,"BTP080 - NR Road, SP Road Junction",25.267544
+2024-03-16,BTP054 - Shivananda Circle,5.2736845
+2024-03-16,BTP045 - Danvanthri Road Junction,10.694986
+2024-03-16,BTP058 - Subbanna Junction,34.542404
+2024-03-16,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",4.960452
+2024-03-16,BTP063 - Siddalingaiah Circle,6.028657
+2024-03-16,BTP067 - Jai Muni Rao Circle,5.043468
+2024-03-16,BTP069 - MC Circle,33.841785
+2024-03-16,BTP057 - Anand Rao Junction,27.315443
+2024-03-16,"BTP070 - Cholurpalya Junction, Magadi Road",22.41061
+2024-03-16,BTP091 - Sirsi Circle,3.7709365
+2024-03-16,BTP082 - KR Market Junction,51.985725
+2024-03-16,"BTP083 - AS Char Street, Mysore Road",30.911926
+2024-03-16,BTP085 - Briyand Circle,5.7970433
+2024-03-16,"BTP095 - Satellite Bus Stand, Mysore Road",6.8863883
+2024-03-16,BTP096 - Gali Anjaneya Temple,12.769511
+2024-03-16,BTP071 - Prasanna Junction,8.084965
+2024-03-16,BTP098 - Nayandahalli Junction,3.8147352
+2024-03-16,BTP074 - Leprosy Hospital Junction,9.53941
+2024-03-16,BTP108 - Tagore Park Junction,7.086763
+2024-03-16,"BTP117 - 9th Cross, Kanakapura Road",12.357467
+2024-03-16,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.1248293
+2024-03-16,BTP118 - Basappa Circle,5.9945593
+2024-03-16,BTP120 - Lalbagh Main Gate Junction,3.460369
+2024-03-16,BTP122 - Siddapura Junction,3.1248293
+2024-03-16,BTP126 - Dairy Circle,3.1248293
+2024-03-16,BTP130 - GD Mara Junction,7.910075
+2024-03-16,BTP128 - Gorappanapalya Junction,4.736335
+2024-03-16,BTP133 - Adugodi Junction,3.1248293
+2024-03-16,BTP134 - Mico Bande,5.553867
+2024-03-16,BTP135 - UCO Bank Junction,15.24401
+2024-03-16,BTP138 - Sarjapur Road Check Post,3.460369
+2024-03-16,BTP140 - Madiwala Check Post,5.9945593
+2024-03-16,BTP192 - Urvashi Theater,6.985245
+2024-03-16,"BTP123 - 10th Cross, Wilson Garden",5.794497
+2024-03-16,BTP146 - Domlur Water Tank,3.1248293
+2024-03-16,BTP137 - Madiwala Traffic PS Junction,6.6052628
+2024-03-16,BTP155 - Katriguppe Junction,3.1248293
+2024-03-16,"BTP189 - New Diagonal Road, Jayanagar",3.533609
+2024-03-16,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.1922207
+2024-03-16,"BTP159 - JP Nagar Metro, ORR",6.359724
+2024-03-16,BTP172 - Nanjappa Circle,7.260405
+2024-03-16,"BTP177 - Aurobindo Circle, ORR",6.053131
+2024-03-16,"BTP182 - 19th Main Junction, Rajajinagar",10.613559
+2024-03-16,BTP196 - Sarakki Main Road,3.1248293
+2024-03-16,BTP205 - Modi Hospital Junction,10.497281
+2024-03-16,BTP166 - Coffee Board Junction,3.2786546
+2024-03-16,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.182105
+2024-03-16,"BTP206 - Shankara Mutt Circle, Vijayanagar",7.650661
+2024-03-16,BTP211 - Central Street Junction,36.23918
+2024-03-16,BTP216 - Yediyur Junction,4.3385963
+2024-03-16,BTP219 - Canara Bank Junction,4.7649856
+2024-03-16,No Junction,1015.8593
+2024-03-16,BTP109 - Dewan Madhava Rao Junction,3.3377824
+2024-03-17,BTP040 - Elite Junction,96.54447
+2024-03-17,BTP038 - Mysore Bank Junction,8.967507
+2024-03-17,BTP027 - Modi Bridge Junction,26.158104
+2024-03-17,"BTP024 - NPS, Vijayanagar",6.0228553
+2024-03-17,BTP023 - Mahalaxmi Layout Entrance,15.47147
+2024-03-17,BTP018 - Dhobi Ghat Junction,3.9703991
+2024-03-17,BTP020 - Hosahalli Metro Station,18.282156
+2024-03-17,BTP078 - NR Square Junction,3.600158
+2024-03-17,"BTP016 - 5th Main Road, RPC Layout",4.7029176
+2024-03-17,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",8.49211
+2024-03-17,BTP041 - Gopal Gowda Circle,4.757581
+2024-03-17,BTP010 - Rajajinagar Entrance,5.369944
+2024-03-17,"BTP022 - Marenahalli Junction, Vijayanagar",9.2249565
+2024-03-17,BTP008 - Navarang Theatre,10.641744
+2024-03-17,BTP075 - Police Corner,3.3872035
+2024-03-17,BTP044 - Sagar Theatre Junction,90.14781
+2024-03-17,BTP074 - Leprosy Hospital Junction,12.788805
+2024-03-17,BTP071 - Prasanna Junction,8.588959
+2024-03-17,BTP069 - MC Circle,8.9914875
+2024-03-17,BTP068 - Veeresh Theatre Junction,4.6367064
+2024-03-17,BTP067 - Jai Muni Rao Circle,3.7400863
+2024-03-17,BTP061 - Bhashyam Circle,6.9505105
+2024-03-17,BTP058 - Subbanna Junction,21.059893
+2024-03-17,BTP057 - Anand Rao Junction,15.732115
+2024-03-17,BTP054 - Shivananda Circle,6.617672
+2024-03-17,BTP051 - Safina Plaza Junction,95.72556
+2024-03-17,BTP064 - Devanga Hostel Junction,3.512862
+2024-03-17,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.159594
+2024-03-17,BTP048 - Shanthala Junction,9.058464
+2024-03-17,BTP045 - Danvanthri Road Junction,13.275815
+2024-03-17,BTP076 - Hudson Circle,6.528531
+2024-03-17,BTP222 - Delmia Circle,3.0916574
+2024-03-17,BTP079 - Town Hall Junction,3.3872035
+2024-03-17,"BTP148 - 17th Main, Doopanahalli Bus Stop",6.382661
+2024-03-17,"BTP070 - Cholurpalya Junction, Magadi Road",15.091497
+2024-03-17,BTP135 - UCO Bank Junction,12.59971
+2024-03-17,BTP130 - GD Mara Junction,10.632758
+2024-03-17,BTP126 - Dairy Circle,4.4829698
+2024-03-17,BTP106 - VV Puram College,6.0036397
+2024-03-17,BTP108 - Tagore Park Junction,8.00537
+2024-03-17,BTP082 - KR Market Junction,122.295074
+2024-03-17,BTP096 - Gali Anjaneya Temple,9.751678
+2024-03-17,BTP085 - Briyand Circle,3.4545953
+2024-03-17,"BTP159 - JP Nagar Metro, ORR",4.636795
+2024-03-17,"BTP083 - AS Char Street, Mysore Road",40.527397
+2024-03-17,BTP121 - KH Circle,3.144028
+2024-03-17,"BTP163 - 16th Main Road, BTM Layout",3.144028
+2024-03-17,BTP136 - Hosur-Tavarkere Road Junction,3.4795678
+2024-03-17,BTP172 - Nanjappa Circle,8.334148
+2024-03-17,BTP203 - RRMR Junction,3.2114193
+2024-03-17,No Junction,607.0127
+2024-03-17,"BTP080 - NR Road, SP Road Junction",24.32315
+2024-03-17,BTP218 - Syndicate Bank Junction,3.622451
+2024-03-17,BTP211 - Central Street Junction,23.86658
+2024-03-17,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.2114193
+2024-03-17,"BTP170 - Dr. Bheem Rao Palace, Chord Road",4.0367403
+2024-03-17,BTP205 - Modi Hospital Junction,7.105962
+2024-03-17,"BTP197 - 9th Cross, 24th Main, JP Nagar",5.876504
+2024-03-17,BTP192 - Urvashi Theater,5.813696
+2024-03-17,"BTP190 - 36th Cross, 4th Main, Jayanagar",3.144028
+2024-03-17,BTP184 - Lalbagh West Gate,4.4829698
+2024-03-17,BTP207 - 8th Main Road Basaveshwara Nagar,6.93098
+2024-03-17,"BTP182 - 19th Main Junction, Rajajinagar",11.494864
+2024-03-18,BTP038 - Mysore Bank Junction,7.5516815
+2024-03-18,BTP028 - Vijayanagar Bus Stand Junction,8.233805
+2024-03-18,BTP027 - Modi Bridge Junction,25.721626
+2024-03-18,BTP023 - Mahalaxmi Layout Entrance,21.20057
+2024-03-18,BTP008 - Navarang Theatre,9.213727
+2024-03-18,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",8.685369
+2024-03-18,"BTP001 - 10th Cross, Dr. Rajkumar Road",13.749928
+2024-03-18,BTP048 - Shanthala Junction,9.637044
+2024-03-18,BTP082 - KR Market Junction,47.956215
+2024-03-18,BTP040 - Elite Junction,66.016525
+2024-03-18,"BTP016 - 5th Main Road, RPC Layout",19.88218
+2024-03-18,BTP041 - Gopal Gowda Circle,95.85336
+2024-03-18,BTP058 - Subbanna Junction,21.452692
+2024-03-18,BTP045 - Danvanthri Road Junction,13.165972
+2024-03-18,BTP044 - Sagar Theatre Junction,64.20522
+2024-03-18,BTP079 - Town Hall Junction,3.475512
+2024-03-18,BTP074 - Leprosy Hospital Junction,9.59408
+2024-03-18,BTP069 - MC Circle,8.905294
+2024-03-18,BTP063 - Siddalingaiah Circle,4.8571243
+2024-03-18,BTP054 - Shivananda Circle,3.9912198
+2024-03-18,BTP053 - Three Let Junction,4.4777527
+2024-03-18,BTP052 - CID Carlton House Junction,3.7639947
+2024-03-18,BTP051 - Safina Plaza Junction,112.56501
+2024-03-18,"BTP080 - NR Road, SP Road Junction",23.728643
+2024-03-18,"BTP022 - Marenahalli Junction, Vijayanagar",8.042781
+2024-03-18,BTP076 - Hudson Circle,9.708716
+2024-03-18,BTP211 - Central Street Junction,23.923944
+2024-03-18,BTP135 - UCO Bank Junction,10.594178
+2024-03-18,"BTP083 - AS Char Street, Mysore Road",28.620089
+2024-03-18,BTP120 - Lalbagh Main Gate Junction,3.1649446
+2024-03-18,"BTP117 - 9th Cross, Kanakapura Road",7.439579
+2024-03-18,BTP108 - Tagore Park Junction,8.321824
+2024-03-18,BTP106 - VV Puram College,5.816087
+2024-03-18,"BTP099 - Cash Pharmacy, Residency Road",3.5998964
+2024-03-18,BTP096 - Gali Anjaneya Temple,8.995146
+2024-03-18,No Junction,766.7936
+2024-03-18,"BTP089 - Police Quarters, Sultan Road",3.4081202
+2024-03-18,BTP130 - GD Mara Junction,12.178157
+2024-03-18,BTP104 - Medical College Circle,10.217756
+2024-03-18,BTP098 - Nayandahalli Junction,3.8548505
+2024-03-18,"BTP170 - Dr. Bheem Rao Palace, Chord Road",4.6698465
+2024-03-18,BTP132 - Anepalya Junction,3.31877
+2024-03-18,BTP085 - Briyand Circle,3.475512
+2024-03-18,BTP205 - Modi Hospital Junction,8.432474
+2024-03-18,BTP192 - Urvashi Theater,7.2001276
+2024-03-18,"BTP177 - Aurobindo Circle, ORR",3.3861609
+2024-03-18,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.3778977
+2024-03-18,"BTP163 - 16th Main Road, BTM Layout",3.1649446
+2024-03-18,"BTP148 - 17th Main, Doopanahalli Bus Stop",6.233066
+2024-03-18,BTP140 - Madiwala Check Post,6.6142793
+2024-03-18,BTP137 - Madiwala Traffic PS Junction,5.231346
+2024-03-18,BTP136 - Hosur-Tavarkere Road Junction,6.6100783
+2024-03-19,BTP037 - KR Circle,3.8216467
+2024-03-19,BTP042 - Minsk Square Junction (CTO),10.850963
+2024-03-19,BTP040 - Elite Junction,69.24125
+2024-03-19,BTP038 - Mysore Bank Junction,9.024751
+2024-03-19,BTP043 - Upparpet Junction,7.9426713
+2024-03-19,BTP027 - Modi Bridge Junction,29.056927
+2024-03-19,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.863075
+2024-03-19,BTP023 - Mahalaxmi Layout Entrance,16.025448
+2024-03-19,BTP020 - Hosahalli Metro Station,34.334957
+2024-03-19,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",11.523589
+2024-03-19,BTP010 - Rajajinagar Entrance,5.543198
+2024-03-19,BTP044 - Sagar Theatre Junction,67.05803
+2024-03-19,"BTP026 - 1st Block Junction, Rajajinagar",9.273136
+2024-03-19,BTP028 - Vijayanagar Bus Stand Junction,7.958211
+2024-03-19,BTP052 - CID Carlton House Junction,5.503348
+2024-03-19,"BTP080 - NR Road, SP Road Junction",31.310396
+2024-03-19,BTP045 - Danvanthri Road Junction,11.928608
+2024-03-19,BTP071 - Prasanna Junction,6.392041
+2024-03-19,"BTP070 - Cholurpalya Junction, Magadi Road",13.501863
+2024-03-19,BTP069 - MC Circle,16.080208
+2024-03-19,BTP063 - Siddalingaiah Circle,16.104942
+2024-03-19,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.5337787
+2024-03-19,BTP076 - Hudson Circle,10.305409
+2024-03-19,BTP058 - Subbanna Junction,29.97103
+2024-03-19,BTP057 - Anand Rao Junction,16.770178
+2024-03-19,BTP054 - Shivananda Circle,6.4610023
+2024-03-19,"BTP083 - AS Char Street, Mysore Road",27.444267
+2024-03-19,BTP051 - Safina Plaza Junction,141.99538
+2024-03-19,BTP061 - Bhashyam Circle,6.36066
+2024-03-19,BTP048 - Shanthala Junction,11.236467
+2024-03-19,BTP082 - KR Market Junction,46.377804
+2024-03-19,BTP008 - Navarang Theatre,9.788577
+2024-03-19,"BTP094 - Sri Skanda Complex, Mysore Road",3.4081202
+2024-03-19,BTP108 - Tagore Park Junction,7.4224167
+2024-03-19,BTP136 - Hosur-Tavarkere Road Junction,5.8585534
+2024-03-19,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.232336
+2024-03-19,BTP140 - Madiwala Check Post,5.723954
+2024-03-19,BTP137 - Madiwala Traffic PS Junction,6.7439556
+2024-03-19,BTP146 - Domlur Water Tank,4.503886
+2024-03-19,BTP135 - UCO Bank Junction,17.879051
+2024-03-19,BTP104 - Medical College Circle,11.968689
+2024-03-19,BTP133 - Adugodi Junction,3.1649446
+2024-03-19,"BTP123 - 10th Cross, Wilson Garden",4.410635
+2024-03-19,BTP118 - Basappa Circle,4.6698465
+2024-03-19,"BTP159 - JP Nagar Metro, ORR",3.3861609
+2024-03-19,BTP134 - Mico Bande,2.6163664
+2024-03-19,"BTP168 - MSR Building, JC Road",3.3861609
+2024-03-19,"BTP221 - 15th Cross, 24th Main, JP Nagar",2.9461224
+2024-03-19,BTP126 - Dairy Circle,3.1649446
+2024-03-19,"BTP182 - 19th Main Junction, Rajajinagar",8.437866
+2024-03-19,BTP172 - Nanjappa Circle,6.785293
+2024-03-19,"BTP177 - Aurobindo Circle, ORR",4.726457
+2024-03-19,BTP225 - Geetha Junction,3.1799655
+2024-03-19,BTP096 - Gali Anjaneya Temple,10.068132
+2024-03-19,BTP216 - Yediyur Junction,3.112574
+2024-03-19,BTP211 - Central Street Junction,24.027441
+2024-03-19,BTP208 - Havanur Circle,7.969997
+2024-03-19,No Junction,971.2194
+2024-03-19,BTP205 - Modi Hospital Junction,8.432474
+2024-03-19,"BTP204 - ESI Hospital, Rajajinagar",3.491226
+2024-03-19,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.232336
+2024-03-19,BTP187 - South End Circle,3.1649446
+2024-03-19,"BTP186 - 9th Cross, 4th Main, Jayanagar",4.9302754
+2024-03-19,BTP207 - 8th Main Road Basaveshwara Nagar,6.330213
+2024-03-20,BTP057 - Anand Rao Junction,16.65396
+2024-03-20,BTP054 - Shivananda Circle,3.9621298
+2024-03-20,BTP051 - Safina Plaza Junction,88.10747
+2024-03-20,BTP045 - Danvanthri Road Junction,11.899519
+2024-03-20,BTP044 - Sagar Theatre Junction,52.687565
+2024-03-20,BTP043 - Upparpet Junction,10.020056
+2024-03-20,BTP040 - Elite Junction,57.25343
+2024-03-20,BTP027 - Modi Bridge Junction,25.728682
+2024-03-20,BTP037 - KR Circle,5.82625
+2024-03-20,BTP023 - Mahalaxmi Layout Entrance,14.503931
+2024-03-20,"BTP016 - 5th Main Road, RPC Layout",16.742977
+2024-03-20,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",9.165612
+2024-03-20,"BTP001 - 10th Cross, Dr. Rajkumar Road",24.070614
+2024-03-20,BTP038 - Mysore Bank Junction,9.106315
+2024-03-20,BTP042 - Minsk Square Junction (CTO),18.757608
+2024-03-20,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",4.9714775
+2024-03-20,BTP058 - Subbanna Junction,21.834316
+2024-03-20,BTP108 - Tagore Park Junction,8.403385
+2024-03-20,BTP063 - Siddalingaiah Circle,10.0991955
+2024-03-20,BTP067 - Jai Muni Rao Circle,3.7319133
+2024-03-20,"BTP070 - Cholurpalya Junction, Magadi Road",15.61063
+2024-03-20,"BTP080 - NR Road, SP Road Junction",36.07258
+2024-03-20,BTP071 - Prasanna Junction,5.141706
+2024-03-20,BTP061 - Bhashyam Circle,7.867088
+2024-03-20,BTP074 - Leprosy Hospital Junction,7.7735915
+2024-03-20,BTP082 - KR Market Junction,52.29053
+2024-03-20,"BTP083 - AS Char Street, Mysore Road",28.303286
+2024-03-20,BTP096 - Gali Anjaneya Temple,8.892181
+2024-03-20,BTP098 - Nayandahalli Junction,3.0896194
+2024-03-20,"BTP099 - Cash Pharmacy, Residency Road",3.5708067
+2024-03-20,"BTP101 - Blood Bank Circle, KH Road",3.5708067
+2024-03-20,"BTP102 - BMTC Junction, KH Road",3.135855
+2024-03-20,BTP105 - Shivasankara Circle,3.4621363
+2024-03-20,"BTP168 - MSR Building, JC Road",4.9011855
+2024-03-20,"BTP117 - 9th Cross, Kanakapura Road",6.7320924
+2024-03-20,"BTP024 - NPS, Vijayanagar",5.820117
+2024-03-20,BTP180 - Swagath Poornima Theatre,4.4747963
+2024-03-20,"BTP177 - Aurobindo Circle, ORR",3.5446346
+2024-03-20,BTP173 - TMC,3.135855
+2024-03-20,BTP172 - Nanjappa Circle,12.710634
+2024-03-20,BTP167 - JC Road Junction,3.5446346
+2024-03-20,"BTP148 - 17th Main, Doopanahalli Bus Stop",4.0801535
+2024-03-20,BTP137 - Madiwala Traffic PS Junction,5.786997
+2024-03-20,BTP140 - Madiwala Check Post,4.6407566
+2024-03-20,BTP135 - UCO Bank Junction,9.966629
+2024-03-20,BTP133 - Adugodi Junction,3.135855
+2024-03-20,BTP130 - GD Mara Junction,13.575651
+2024-03-20,BTP146 - Domlur Water Tank,3.135855
+2024-03-20,"BTP186 - 9th Cross, 4th Main, Jayanagar",3.3570712
+2024-03-20,BTP225 - Geetha Junction,4.349622
+2024-03-20,BTP136 - Hosur-Tavarkere Road Junction,4.739368
+2024-03-20,BTP120 - Lalbagh Main Gate Junction,3.135855
+2024-03-20,"BTP189 - New Diagonal Road, Jayanagar",3.3908088
+2024-03-20,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.135855
+2024-03-20,BTP192 - Urvashi Theater,6.301123
+2024-03-20,BTP203 - RRMR Junction,3.2032464
+2024-03-20,"BTP204 - ESI Hospital, Rajajinagar",4.65687
+2024-03-20,BTP205 - Modi Hospital Junction,9.077612
+2024-03-20,"BTP206 - Shankara Mutt Circle, Vijayanagar",6.926889
+2024-03-20,BTP208 - Havanur Circle,13.377111
+2024-03-20,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.3908088
+2024-03-20,BTP211 - Central Street Junction,18.68037
+2024-03-20,No Junction,959.26294
+2024-03-20,BTP213 - Royan Circle,3.135855
+2024-03-20,BTP214 - 5th Main Chamrajpet  Junction,3.2032464
+2024-03-20,BTP215 - Vanivillas Junction,3.1508758
+2024-03-20,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.2032464
+2024-03-21,BTP038 - Mysore Bank Junction,9.331238
+2024-03-21,BTP034 - LRDE Junction,3.6387925
+2024-03-21,BTP032 - Windsor Circle,6.993564
+2024-03-21,BTP030 - Mekhri Circle,6.1887646
+2024-03-21,BTP028 - Vijayanagar Bus Stand Junction,8.712768
+2024-03-21,BTP027 - Modi Bridge Junction,31.807398
+2024-03-21,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",14.887338
+2024-03-21,"BTP022 - Marenahalli Junction, Vijayanagar",6.881779
+2024-03-21,BTP020 - Hosahalli Metro Station,19.717802
+2024-03-21,BTP010 - Rajajinagar Entrance,5.158077
+2024-03-21,BTP008 - Navarang Theatre,5.8279066
+2024-03-21,"BTP083 - AS Char Street, Mysore Road",22.809502
+2024-03-21,BTP048 - Shanthala Junction,9.407947
+2024-03-21,BTP023 - Mahalaxmi Layout Entrance,14.340251
+2024-03-21,BTP040 - Elite Junction,33.662292
+2024-03-21,BTP082 - KR Market Junction,56.08734
+2024-03-21,BTP044 - Sagar Theatre Junction,52.957584
+2024-03-21,BTP043 - Upparpet Junction,9.775689
+2024-03-21,"BTP080 - NR Road, SP Road Junction",29.436897
+2024-03-21,BTP076 - Hudson Circle,5.1260514
+2024-03-21,BTP071 - Prasanna Junction,8.678233
+2024-03-21,"BTP070 - Cholurpalya Junction, Magadi Road",10.353226
+2024-03-21,BTP063 - Siddalingaiah Circle,10.360057
+2024-03-21,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.703398
+2024-03-21,BTP069 - MC Circle,13.15233
+2024-03-21,BTP061 - Bhashyam Circle,9.022712
+2024-03-21,BTP058 - Subbanna Junction,26.234282
+2024-03-21,BTP057 - Anand Rao Junction,17.27072
+2024-03-21,BTP054 - Shivananda Circle,5.130945
+2024-03-21,BTP051 - Safina Plaza Junction,87.66964
+2024-03-21,"BTP024 - NPS, Vijayanagar",5.938917
+2024-03-21,BTP045 - Danvanthri Road Junction,12.687579
+2024-03-21,BTP167 - JC Road Junction,3.39087
+2024-03-21,"BTP164 - 29th Main Road, BTM Layout",2.8156388
+2024-03-21,BTP085 - Briyand Circle,3.2926579
+2024-03-21,BTP157 - Kadirenahalli Cross,2.9820905
+2024-03-21,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.9860296
+2024-03-21,BTP132 - Anepalya Junction,4.5935955
+2024-03-21,BTP130 - GD Mara Junction,15.885346
+2024-03-21,BTP126 - Dairy Circle,2.9820905
+2024-03-21,"BTP123 - 10th Cross, Wilson Garden",3.8425977
+2024-03-21,BTP120 - Lalbagh Main Gate Junction,2.9820905
+2024-03-21,BTP118 - Basappa Circle,3.9964242
+2024-03-21,BTP096 - Gali Anjaneya Temple,8.516753
+2024-03-21,"BTP095 - Satellite Bus Stand, Mysore Road",5.584795
+2024-03-21,"BTP093 - Toll Gate, Mysore Road",4.8367715
+2024-03-21,No Junction,892.00366
+2024-03-21,BTP121 - KH Circle,3.334563
+2024-03-21,BTP098 - Nayandahalli Junction,5.956825
+2024-03-21,BTP091 - Sirsi Circle,4.566422
+2024-03-21,"BTP163 - 16th Main Road, BTM Layout",2.9820905
+2024-03-21,"BTP226 - 33rd Cross, 11th Main, Jayanagar",3.5739934
+2024-03-21,BTP220 - Puttanna Junction,2.92972
+2024-03-21,BTP211 - Central Street Junction,21.26228
+2024-03-21,"BTP210 - 50th cross, 12th Main , Rajajinagar",4.5935955
+2024-03-21,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.2033067
+2024-03-21,"BTP189 - New Diagonal Road, Jayanagar",5.6756988
+2024-03-21,"BTP206 - Shankara Mutt Circle, Vijayanagar",7.859631
+2024-03-21,"BTP186 - 9th Cross, 4th Main, Jayanagar",3.2033067
+2024-03-21,BTP185 - RV Teachers College,2.9820905
+2024-03-21,"BTP182 - 19th Main Junction, Rajajinagar",10.056966
+2024-03-21,"BTP177 - Aurobindo Circle, ORR",4.858167
+2024-03-21,BTP172 - Nanjappa Circle,8.415692
+2024-03-21,"BTP168 - MSR Building, JC Road",5.633698
+2024-03-22,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.4446
+2024-03-22,BTP103 - Shanti Nagar TTMC,3.0714283
+2024-03-22,"BTP001 - 10th Cross, Dr. Rajkumar Road",14.529765
+2024-03-22,BTP009 - Prakash Nagar Junction,21.855541
+2024-03-22,BTP010 - Rajajinagar Entrance,7.949763
+2024-03-22,BTP023 - Mahalaxmi Layout Entrance,13.5114765
+2024-03-22,BTP020 - Hosahalli Metro Station,21.632284
+2024-03-22,BTP044 - Sagar Theatre Junction,51.60549
+2024-03-22,BTP045 - Danvanthri Road Junction,14.231821
+2024-03-22,"BTP026 - 1st Block Junction, Rajajinagar",9.319673
+2024-03-22,BTP032 - Windsor Circle,11.660584
+2024-03-22,BTP038 - Mysore Bank Junction,9.170475
+2024-03-22,BTP043 - Upparpet Junction,7.779589
+2024-03-22,BTP051 - Safina Plaza Junction,84.12175
+2024-03-22,"BTP024 - NPS, Vijayanagar",4.6413755
+2024-03-22,BTP027 - Modi Bridge Junction,25.156355
+2024-03-22,BTP058 - Subbanna Junction,21.186932
+2024-03-22,BTP091 - Sirsi Circle,7.7265015
+2024-03-22,"BTP070 - Cholurpalya Junction, Magadi Road",18.636639
+2024-03-22,"BTP101 - Blood Bank Circle, KH Road",3.50638
+2024-03-22,BTP061 - Bhashyam Circle,9.104122
+2024-03-22,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",6.065892
+2024-03-22,BTP064 - Devanga Hostel Junction,3.4402623
+2024-03-22,BTP068 - Veeresh Theatre Junction,4.726931
+2024-03-22,BTP057 - Anand Rao Junction,19.63581
+2024-03-22,BTP069 - MC Circle,13.4908085
+2024-03-22,BTP071 - Prasanna Junction,5.8304467
+2024-03-22,BTP074 - Leprosy Hospital Junction,6.802587
+2024-03-22,BTP082 - KR Market Junction,78.39278
+2024-03-22,"BTP083 - AS Char Street, Mysore Road",22.207186
+2024-03-22,"BTP089 - Police Quarters, Sultan Road",3.3146038
+2024-03-22,BTP054 - Shivananda Circle,3.8977032
+2024-03-22,"BTP080 - NR Road, SP Road Junction",35.76482
+2024-03-22,BTP119 - Minerva Circle,3.0714283
+2024-03-22,BTP040 - Elite Junction,52.787018
+2024-03-22,"BTP210 - 50th cross, 12th Main , Rajajinagar",5.7230363
+2024-03-22,BTP173 - TMC,3.0714283
+2024-03-22,BTP118 - Basappa Circle,5.3930073
+2024-03-22,"BTP123 - 10th Cross, Wilson Garden",10.594197
+2024-03-22,BTP130 - GD Mara Junction,14.170248
+2024-03-22,BTP133 - Adugodi Junction,4.682934
+2024-03-22,"BTP117 - 9th Cross, Kanakapura Road",4.764953
+2024-03-22,BTP135 - UCO Bank Junction,7.979467
+2024-03-22,BTP136 - Hosur-Tavarkere Road Junction,3.480208
+2024-03-22,BTP138 - Sarjapur Road Check Post,3.0714283
+2024-03-22,BTP140 - Madiwala Check Post,3.0180635
+2024-03-22,"BTP145 - Sri Hatti Maramma Circle, Domluru",2.5902414
+2024-03-22,"BTP163 - 16th Main Road, BTM Layout",5.500466
+2024-03-22,BTP137 - Madiwala Traffic PS Junction,3.6344264
+2024-03-22,BTP104 - Medical College Circle,8.394378
+2024-03-22,BTP167 - JC Road Junction,5.765037
+2024-03-22,"BTP177 - Aurobindo Circle, ORR",4.9475055
+2024-03-22,BTP134 - Mico Bande,3.0714283
+2024-03-22,"BTP182 - 19th Main Junction, Rajajinagar",13.025251
+2024-03-22,"BTP189 - New Diagonal Road, Jayanagar",4.79368
+2024-03-22,BTP220 - Puttanna Junction,4.2851954
+2024-03-22,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.0714283
+2024-03-22,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.4382071
+2024-03-22,BTP203 - RRMR Junction,3.1388197
+2024-03-22,"BTP206 - Shankara Mutt Circle, Vijayanagar",10.594197
+2024-03-22,BTP211 - Central Street Junction,27.899965
+2024-03-22,BTP205 - Modi Hospital Junction,6.3962383
+2024-03-22,BTP214 - 5th Main Chamrajpet  Junction,3.1179297
+2024-03-22,BTP215 - Vanivillas Junction,3.0864491
+2024-03-22,BTP217 - Baleyele Junction,3.0864491
+2024-03-22,BTP218 - Syndicate Bank Junction,3.2740116
+2024-03-22,"BTP115 - Sahasra Hospital, Jayanagar",3.1388197
+2024-03-22,No Junction,927.98425
+2024-03-22,BTP180 - Swagath Poornima Theatre,3.1388197
+2024-03-23,"BTP094 - Sri Skanda Complex, Mysore Road",3.3680048
+2024-03-23,BTP020 - Hosahalli Metro Station,19.894022
+2024-03-23,"BTP001 - 10th Cross, Dr. Rajkumar Road",31.192322
+2024-03-23,BTP008 - Navarang Theatre,7.19142
+2024-03-23,BTP010 - Rajajinagar Entrance,8.596613
+2024-03-23,"BTP015 - Suguna Hospital, Dr. Rajkumar Road",5.506399
+2024-03-23,BTP018 - Dhobi Ghat Junction,6.0051737
+2024-03-23,"BTP022 - Marenahalli Junction, Vijayanagar",6.8020606
+2024-03-23,BTP038 - Mysore Bank Junction,9.708671
+2024-03-23,"BTP024 - NPS, Vijayanagar",6.879181
+2024-03-23,"BTP026 - 1st Block Junction, Rajajinagar",6.005357
+2024-03-23,BTP027 - Modi Bridge Junction,27.117931
+2024-03-23,BTP028 - Vijayanagar Bus Stand Junction,6.005357
+2024-03-23,BTP032 - Windsor Circle,7.022028
+2024-03-23,BTP040 - Elite Junction,61.996117
+2024-03-23,BTP043 - Upparpet Junction,9.327772
+2024-03-23,BTP023 - Mahalaxmi Layout Entrance,19.393616
+2024-03-23,BTP044 - Sagar Theatre Junction,51.002323
+2024-03-23,BTP057 - Anand Rao Junction,23.30832
+2024-03-23,BTP051 - Safina Plaza Junction,59.313168
+2024-03-23,BTP042 - Minsk Square Junction (CTO),10.894593
+2024-03-23,BTP054 - Shivananda Circle,5.2736845
+2024-03-23,BTP069 - MC Circle,11.238785
+2024-03-23,BTP058 - Subbanna Junction,20.381353
+2024-03-23,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",6.1335635
+2024-03-23,BTP063 - Siddalingaiah Circle,6.028657
+2024-03-23,BTP064 - Devanga Hostel Junction,6.2852416
+2024-03-23,BTP068 - Veeresh Theatre Junction,6.1650734
+2024-03-23,"BTP080 - NR Road, SP Road Junction",17.136267
+2024-03-23,"BTP070 - Cholurpalya Junction, Magadi Road",12.759862
+2024-03-23,BTP071 - Prasanna Junction,8.82897
+2024-03-23,BTP074 - Leprosy Hospital Junction,15.410074
+2024-03-23,BTP076 - Hudson Circle,3.7449732
+2024-03-23,BTP082 - KR Market Junction,61.21458
+2024-03-23,"BTP083 - AS Char Street, Mysore Road",16.003891
+2024-03-23,BTP091 - Sirsi Circle,4.941905
+2024-03-23,BTP045 - Danvanthri Road Junction,12.495994
+2024-03-23,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",8.76588
+2024-03-23,"BTP093 - Toll Gate, Mysore Road",3.3680048
+2024-03-23,BTP061 - Bhashyam Circle,6.655718
+2024-03-23,"BTP095 - Satellite Bus Stand, Mysore Road",3.7727344
+2024-03-23,BTP118 - Basappa Circle,4.391819
+2024-03-23,"BTP163 - 16th Main Road, BTM Layout",3.2786546
+2024-03-23,BTP098 - Nayandahalli Junction,3.627172
+2024-03-23,BTP104 - Medical College Circle,10.048688
+2024-03-23,BTP106 - VV Puram College,4.1803675
+2024-03-23,BTP108 - Tagore Park Junction,7.479107
+2024-03-23,BTP109 - Dewan Madhava Rao Junction,3.1248293
+2024-03-23,"BTP115 - Sahasra Hospital, Jayanagar",4.463771
+2024-03-23,BTP103 - Shanti Nagar TTMC,5.553867
+2024-03-23,BTP119 - Minerva Circle,3.1248293
+2024-03-23,BTP126 - Dairy Circle,3.1248293
+2024-03-23,BTP135 - UCO Bank Junction,9.909166
+2024-03-23,BTP136 - Hosur-Tavarkere Road Junction,4.7283425
+2024-03-23,BTP141 - Palmgroove Junction,3.1248293
+2024-03-23,BTP122 - Siddapura Junction,3.1248293
+2024-03-23,BTP155 - Katriguppe Junction,3.1248293
+2024-03-23,BTP211 - Central Street Junction,24.871931
+2024-03-23,BTP166 - Coffee Board Junction,3.1248293
+2024-03-23,BTP217 - Baleyele Junction,3.1398501
+2024-03-23,BTP137 - Madiwala Traffic PS Junction,4.850356
+2024-03-23,BTP096 - Gali Anjaneya Temple,6.730766
+2024-03-23,"BTP170 - Dr. Bheem Rao Palace, Chord Road",3.8099153
+2024-03-23,BTP167 - JC Road Junction,6.1751447
+2024-03-23,BTP172 - Nanjappa Circle,7.479107
+2024-03-23,BTP173 - TMC,4.736335
+2024-03-23,BTP180 - Swagath Poornima Theatre,5.553867
+2024-03-23,"BTP182 - 19th Main Junction, Rajajinagar",9.64447
+2024-03-23,"BTP186 - 9th Cross, 4th Main, Jayanagar",3.3460455
+2024-03-23,"BTP191 - 40th Cross, 4th Main, Jayanagar",4.463771
+2024-03-23,"BTP177 - Aurobindo Circle, ORR",5.0009065
+2024-03-23,"BTP197 - 9th Cross, 24th Main, JP Nagar",5.818438
+2024-03-23,"BTP204 - ESI Hospital, Rajajinagar",3.4511106
+2024-03-23,BTP205 - Modi Hospital Junction,6.774151
+2024-03-23,BTP208 - Havanur Circle,7.086763
+2024-03-23,"BTP210 - 50th cross, 12th Main , Rajajinagar",5.0009065
+2024-03-23,BTP215 - Vanivillas Junction,4.6183734
+2024-03-23,BTP219 - Canara Bank Junction,3.0724587
+2024-03-23,BTP192 - Urvashi Theater,4.3341928
+2024-03-23,No Junction,971.908
+2024-03-24,BTP092 - Bangalore Builders Junction,3.3872035
+2024-03-24,BTP008 - Navarang Theatre,10.544609
+2024-03-24,BTP010 - Rajajinagar Entrance,8.596613
+2024-03-24,BTP020 - Hosahalli Metro Station,14.817202
+2024-03-24,BTP023 - Mahalaxmi Layout Entrance,11.731087
+2024-03-24,"BTP024 - NPS, Vijayanagar",25.066565
+2024-03-24,BTP038 - Mysore Bank Junction,7.3867016
+2024-03-24,BTP045 - Danvanthri Road Junction,12.727554
+2024-03-24,BTP028 - Vijayanagar Bus Stand Junction,8.430216
+2024-03-24,BTP040 - Elite Junction,89.75065
+2024-03-24,"BTP026 - 1st Block Junction, Rajajinagar",7.368162
+2024-03-24,BTP041 - Gopal Gowda Circle,7.1747723
+2024-03-24,BTP043 - Upparpet Junction,11.210365
+2024-03-24,BTP027 - Modi Bridge Junction,17.593084
+2024-03-24,BTP048 - Shanthala Junction,9.184061
+2024-03-24,BTP074 - Leprosy Hospital Junction,15.780323
+2024-03-24,BTP054 - Shivananda Circle,6.4336653
+2024-03-24,BTP069 - MC Circle,29.601059
+2024-03-24,BTP044 - Sagar Theatre Junction,59.863293
+2024-03-24,BTP057 - Anand Rao Junction,19.044601
+2024-03-24,BTP061 - Bhashyam Circle,7.7282815
+2024-03-24,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",12.431323
+2024-03-24,BTP063 - Siddalingaiah Circle,8.799776
+2024-03-24,"BTP001 - 10th Cross, Dr. Rajkumar Road",32.64467
+2024-03-24,BTP068 - Veeresh Theatre Junction,4.799531
+2024-03-24,BTP071 - Prasanna Junction,5.9030466
+2024-03-24,BTP051 - Safina Plaza Junction,93.33626
+2024-03-24,BTP079 - Town Hall Junction,3.3872035
+2024-03-24,"BTP080 - NR Road, SP Road Junction",21.236597
+2024-03-24,BTP082 - KR Market Junction,86.75041
+2024-03-24,"BTP083 - AS Char Street, Mysore Road",29.830881
+2024-03-24,"BTP070 - Cholurpalya Junction, Magadi Road",12.779061
+2024-03-24,BTP091 - Sirsi Circle,5.2636743
+2024-03-24,BTP058 - Subbanna Junction,22.52363
+2024-03-24,"BTP095 - Satellite Bus Stand, Mysore Road",5.3012314
+2024-03-24,BTP119 - Minerva Circle,4.7555337
+2024-03-24,BTP098 - Nayandahalli Junction,4.9866667
+2024-03-24,BTP103 - Shanti Nagar TTMC,3.144028
+2024-03-24,BTP140 - Madiwala Check Post,3.6748216
+2024-03-24,BTP104 - Medical College Circle,8.11602
+2024-03-24,"BTP112 - 14th Cross, KR Road",3.144028
+2024-03-24,BTP146 - Domlur Water Tank,3.144028
+2024-03-24,"BTP117 - 9th Cross, Kanakapura Road",4.1995664
+2024-03-24,BTP120 - Lalbagh Main Gate Junction,3.144028
+2024-03-24,"BTP123 - 10th Cross, Wilson Garden",5.813696
+2024-03-24,BTP130 - GD Mara Junction,11.31142
+2024-03-24,BTP135 - UCO Bank Junction,8.264578
+2024-03-24,BTP136 - Hosur-Tavarkere Road Junction,3.5528076
+2024-03-24,BTP220 - Puttanna Junction,3.0916574
+2024-03-24,BTP108 - Tagore Park Junction,13.526792
+2024-03-24,"BTP191 - 40th Cross, 4th Main, Jayanagar",4.4829698
+2024-03-24,BTP137 - Madiwala Traffic PS Junction,8.862163
+2024-03-24,No Junction,918.3776
+2024-03-24,"BTP186 - 9th Cross, 4th Main, Jayanagar",7.0565996
+2024-03-24,BTP167 - JC Road Junction,5.9596505
+2024-03-24,"BTP168 - MSR Building, JC Road",4.636795
+2024-03-24,BTP173 - TMC,3.144028
+2024-03-24,"BTP163 - 16th Main Road, BTM Layout",4.909359
+2024-03-24,BTP180 - Swagath Poornima Theatre,3.144028
+2024-03-24,BTP185 - RV Teachers College,4.762747
+2024-03-24,"BTP178 - 18th Main, Marenahalli",3.144028
+2024-03-24,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.6241353
+2024-03-24,BTP205 - Modi Hospital Junction,6.7933497
+2024-03-24,BTP211 - Central Street Junction,24.100973
+2024-03-24,BTP219 - Canara Bank Junction,3.0916574
+2024-03-24,"BTP221 - 15th Cross, 24th Main, JP Nagar",3.8093238
+2024-03-24,BTP096 - Gali Anjaneya Temple,13.231188
+2024-03-24,BTP192 - Urvashi Theater,5.610285
+2024-03-25,BTP041 - Gopal Gowda Circle,7.991166
+2024-03-25,BTP040 - Elite Junction,79.02999
+2024-03-25,BTP038 - Mysore Bank Junction,8.298985
+2024-03-25,BTP032 - Windsor Circle,8.595331
+2024-03-25,BTP030 - Mekhri Circle,6.371619
+2024-03-25,BTP085 - Briyand Circle,3.4081202
+2024-03-25,BTP027 - Modi Bridge Junction,34.14714
+2024-03-25,BTP023 - Mahalaxmi Layout Entrance,11.370619
+2024-03-25,"BTP022 - Marenahalli Junction, Vijayanagar",8.352286
+2024-03-25,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.550439
+2024-03-25,BTP010 - Rajajinagar Entrance,14.471786
+2024-03-25,BTP042 - Minsk Square Junction (CTO),13.66775
+2024-03-25,BTP028 - Vijayanagar Bus Stand Junction,15.5297
+2024-03-25,"BTP024 - NPS, Vijayanagar",18.370451
+2024-03-25,BTP067 - Jai Muni Rao Circle,3.6011705
+2024-03-25,BTP082 - KR Market Junction,67.535805
+2024-03-25,BTP043 - Upparpet Junction,9.257238
+2024-03-25,"BTP080 - NR Road, SP Road Junction",24.739964
+2024-03-25,BTP074 - Leprosy Hospital Junction,11.977373
+2024-03-25,"BTP070 - Cholurpalya Junction, Magadi Road",16.08452
+2024-03-25,BTP071 - Prasanna Junction,8.420618
+2024-03-25,BTP058 - Subbanna Junction,21.147865
+2024-03-25,BTP057 - Anand Rao Junction,12.171353
+2024-03-25,BTP054 - Shivananda Circle,3.9912198
+2024-03-25,BTP051 - Safina Plaza Junction,65.66112
+2024-03-25,BTP048 - Shanthala Junction,11.259375
+2024-03-25,BTP045 - Danvanthri Road Junction,12.809315
+2024-03-25,BTP063 - Siddalingaiah Circle,6.191771
+2024-03-25,"BTP083 - AS Char Street, Mysore Road",20.893341
+2024-03-25,BTP044 - Sagar Theatre Junction,61.394043
+2024-03-25,BTP105 - Shivasankara Circle,3.491226
+2024-03-25,"BTP001 - 10th Cross, Dr. Rajkumar Road",21.661345
+2024-03-25,"BTP186 - 9th Cross, 4th Main, Jayanagar",8.081671
+2024-03-25,BTP092 - Bangalore Builders Junction,5.019626
+2024-03-25,"BTP159 - JP Nagar Metro, ORR",3.1649446
+2024-03-25,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.054473
+2024-03-25,BTP137 - Madiwala Traffic PS Junction,5.481844
+2024-03-25,BTP133 - Adugodi Junction,3.3861609
+2024-03-25,BTP130 - GD Mara Junction,12.311488
+2024-03-25,"BTP123 - 10th Cross, Wilson Garden",9.069254
+2024-03-25,BTP121 - KH Circle,2.6163664
+2024-03-25,"BTP115 - Sahasra Hospital, Jayanagar",3.232336
+2024-03-25,BTP109 - Dewan Madhava Rao Junction,3.1649446
+2024-03-25,BTP108 - Tagore Park Junction,10.285259
+2024-03-25,BTP172 - Nanjappa Circle,7.4224167
+2024-03-25,BTP128 - Gorappanapalya Junction,3.1649446
+2024-03-25,BTP173 - TMC,3.1649446
+2024-03-25,"BTP095 - Satellite Bus Stand, Mysore Road",4.4221134
+2024-03-25,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.3778977
+2024-03-25,"BTP093 - Toll Gate, Mysore Road",2.9269338
+2024-03-25,BTP208 - Havanur Circle,9.330677
+2024-03-25,No Junction,789.78503
+2024-03-25,"BTP226 - 33rd Cross, 11th Main, Jayanagar",5.049462
+2024-03-25,BTP222 - Delmia Circle,4.6512756
+2024-03-25,BTP216 - Yediyur Junction,4.6512756
+2024-03-25,BTP225 - Geetha Junction,3.1799655
+2024-03-25,BTP211 - Central Street Junction,24.671658
+2024-03-25,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.3861609
+2024-03-25,BTP205 - Modi Hospital Junction,8.254413
+2024-03-25,"BTP200 - 15th Cross, 33rd Main, JP Nagar",2.998493
+2024-03-25,BTP192 - Urvashi Theater,4.410635
+2024-03-25,"BTP190 - 36th Cross, 4th Main, Jayanagar",4.77645
+2024-03-25,BTP215 - Vanivillas Junction,3.1799655
+2024-03-26,BTP043 - Upparpet Junction,10.572239
+2024-03-26,"BTP022 - Marenahalli Junction, Vijayanagar",9.69589
+2024-03-26,"BTP001 - 10th Cross, Dr. Rajkumar Road",16.04949
+2024-03-26,BTP010 - Rajajinagar Entrance,11.783116
+2024-03-26,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",13.019797
+2024-03-26,BTP017 - Attiguppe Circle,11.992984
+2024-03-26,BTP018 - Dhobi Ghat Junction,6.0994925
+2024-03-26,BTP023 - Mahalaxmi Layout Entrance,12.235401
+2024-03-26,BTP036 - Police Thimmaiah Circle (GPO),5.2669454
+2024-03-26,BTP027 - Modi Bridge Junction,37.016773
+2024-03-26,BTP028 - Vijayanagar Bus Stand Junction,7.381478
+2024-03-26,BTP030 - Mekhri Circle,7.6066146
+2024-03-26,BTP032 - Windsor Circle,8.595331
+2024-03-26,BTP034 - LRDE Junction,3.8216467
+2024-03-26,BTP038 - Mysore Bank Junction,9.649304
+2024-03-26,BTP040 - Elite Junction,67.25729
+2024-03-26,BTP044 - Sagar Theatre Junction,61.36703
+2024-03-26,"BTP024 - NPS, Vijayanagar",17.780464
+2024-03-26,BTP008 - Navarang Theatre,7.27161
+2024-03-26,BTP045 - Danvanthri Road Junction,9.27057
+2024-03-26,BTP085 - Briyand Circle,5.019626
+2024-03-26,BTP042 - Minsk Square Junction (CTO),21.574495
+2024-03-26,BTP057 - Anand Rao Junction,19.06627
+2024-03-26,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",4.426555
+2024-03-26,BTP098 - Nayandahalli Junction,3.6672873
+2024-03-26,BTP058 - Subbanna Junction,23.270988
+2024-03-26,BTP054 - Shivananda Circle,5.586364
+2024-03-26,BTP051 - Safina Plaza Junction,54.329563
+2024-03-26,BTP064 - Devanga Hostel Junction,3.5337787
+2024-03-26,BTP047 - Vidhan Soudha Metro Station,5.50646
+2024-03-26,BTP048 - Shanthala Junction,11.081537
+2024-03-26,BTP071 - Prasanna Junction,8.670719
+2024-03-26,BTP067 - Jai Muni Rao Circle,3.6011705
+2024-03-26,BTP068 - Veeresh Theatre Junction,6.2918673
+2024-03-26,"BTP070 - Cholurpalya Junction, Magadi Road",16.83528
+2024-03-26,BTP074 - Leprosy Hospital Junction,10.177835
+2024-03-26,"BTP080 - NR Road, SP Road Junction",17.435255
+2024-03-26,BTP082 - KR Market Junction,66.0981
+2024-03-26,"BTP083 - AS Char Street, Mysore Road",21.161034
+2024-03-26,BTP063 - Siddalingaiah Circle,8.392887
+2024-03-26,BTP096 - Gali Anjaneya Temple,7.65758
+2024-03-26,BTP214 - 5th Main Chamrajpet  Junction,3.4198985
+2024-03-26,"BTP099 - Cash Pharmacy, Residency Road",3.5998964
+2024-03-26,"BTP123 - 10th Cross, Wilson Garden",9.765905
+2024-03-26,"BTP164 - 29th Main Road, BTM Layout",4.77645
+2024-03-26,BTP104 - Medical College Circle,7.4224167
+2024-03-26,BTP105 - Shivasankara Circle,6.233066
+2024-03-26,BTP109 - Dewan Madhava Rao Junction,4.503886
+2024-03-26,"BTP110 - Bharathi Nursing Home, Basavanagudi",3.1649446
+2024-03-26,"BTP117 - 9th Cross, Kanakapura Road",4.2568088
+2024-03-26,BTP118 - Basappa Circle,3.4198985
+2024-03-26,BTP120 - Lalbagh Main Gate Junction,3.1649446
+2024-03-26,BTP108 - Tagore Park Junction,9.330677
+2024-03-26,BTP130 - GD Mara Junction,9.9801235
+2024-03-26,BTP133 - Adugodi Junction,3.3861609
+2024-03-26,BTP135 - UCO Bank Junction,10.357784
+2024-03-26,BTP138 - Sarjapur Road Check Post,3.1649446
+2024-03-26,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.980567
+2024-03-26,"BTP159 - JP Nagar Metro, ORR",3.1649446
+2024-03-26,"BTP163 - 16th Main Road, BTM Layout",3.31877
+2024-03-26,"BTP170 - Dr. Bheem Rao Palace, Chord Road",3.6708357
+2024-03-26,BTP220 - Puttanna Junction,3.112574
+2024-03-26,BTP132 - Anepalya Junction,4.503886
+2024-03-26,BTP103 - Shanti Nagar TTMC,3.1649446
+2024-03-26,BTP205 - Modi Hospital Junction,7.9043026
+2024-03-26,"BTP182 - 19th Main Junction, Rajajinagar",9.025543
+2024-03-26,"BTP186 - 9th Cross, 4th Main, Jayanagar",10.706411
+2024-03-26,"BTP189 - New Diagonal Road, Jayanagar",3.211446
+2024-03-26,BTP192 - Urvashi Theater,5.828533
+2024-03-26,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.3861609
+2024-03-26,BTP203 - RRMR Junction,3.232336
+2024-03-26,"BTP204 - ESI Hospital, Rajajinagar",3.6957383
+2024-03-26,BTP196 - Sarakki Main Road,3.1649446
+2024-03-26,BTP172 - Nanjappa Circle,10.606169
+2024-03-26,No Junction,950.7722
+2024-03-26,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.5737243
+2024-03-26,"BTP226 - 33rd Cross, 11th Main, Jayanagar",5.993776
+2024-03-26,BTP225 - Geetha Junction,4.3787117
+2024-03-26,BTP180 - Swagath Poornima Theatre,3.3861609
+2024-03-26,BTP215 - Vanivillas Junction,4.532537
+2024-03-26,BTP061 - Bhashyam Circle,4.94782
+2024-03-26,BTP211 - Central Street Junction,28.698175
+2024-03-26,BTP222 - Delmia Circle,5.4688077
+2024-03-27,BTP023 - Mahalaxmi Layout Entrance,10.301886
+2024-03-27,BTP109 - Dewan Madhava Rao Junction,5.5648923
+2024-03-27,BTP008 - Navarang Theatre,10.94638
+2024-03-27,BTP010 - Rajajinagar Entrance,8.801374
+2024-03-27,BTP018 - Dhobi Ghat Junction,7.2540364
+2024-03-27,BTP020 - Hosahalli Metro Station,14.073067
+2024-03-27,"BTP026 - 1st Block Junction, Rajajinagar",7.273978
+2024-03-27,BTP042 - Minsk Square Junction (CTO),16.106693
+2024-03-27,BTP027 - Modi Bridge Junction,29.929316
+2024-03-27,BTP044 - Sagar Theatre Junction,58.001472
+2024-03-27,BTP028 - Vijayanagar Bus Stand Junction,10.227274
+2024-03-27,BTP032 - Windsor Circle,10.332817
+2024-03-27,BTP034 - LRDE Junction,5.553685
+2024-03-27,BTP038 - Mysore Bank Junction,11.456065
+2024-03-27,BTP040 - Elite Junction,67.289406
+2024-03-27,BTP045 - Danvanthri Road Junction,14.400183
+2024-03-27,"BTP024 - NPS, Vijayanagar",35.679867
+2024-03-27,"BTP001 - 10th Cross, Dr. Rajkumar Road",16.771296
+2024-03-27,"BTP080 - NR Road, SP Road Junction",17.111652
+2024-03-27,"BTP089 - Police Quarters, Sultan Road",2.8304522
+2024-03-27,BTP043 - Upparpet Junction,11.49773
+2024-03-27,"BTP070 - Cholurpalya Junction, Magadi Road",18.884735
+2024-03-27,BTP054 - Shivananda Circle,6.425492
+2024-03-27,BTP057 - Anand Rao Junction,22.646002
+2024-03-27,BTP058 - Subbanna Junction,22.119785
+2024-03-27,BTP061 - Bhashyam Circle,7.2119465
+2024-03-27,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",9.013698
+2024-03-27,BTP051 - Safina Plaza Junction,71.76332
+2024-03-27,BTP063 - Siddalingaiah Circle,7.1012936
+2024-03-27,BTP071 - Prasanna Junction,8.879066
+2024-03-27,BTP074 - Leprosy Hospital Junction,16.885902
+2024-03-27,BTP075 - Police Corner,3.3790305
+2024-03-27,BTP048 - Shanthala Junction,10.482649
+2024-03-27,BTP082 - KR Market Junction,72.334015
+2024-03-27,"BTP083 - AS Char Street, Mysore Road",18.788895
+2024-03-27,BTP085 - Briyand Circle,3.4464223
+2024-03-27,BTP067 - Jai Muni Rao Circle,6.144589
+2024-03-27,BTP108 - Tagore Park Junction,11.488825
+2024-03-27,BTP208 - Havanur Circle,8.292735
+2024-03-27,"BTP117 - 9th Cross, Kanakapura Road",4.02849
+2024-03-27,BTP172 - Nanjappa Circle,8.292735
+2024-03-27,BTP120 - Lalbagh Main Gate Junction,2.5872767
+2024-03-27,"BTP123 - 10th Cross, Wilson Garden",10.632015
+2024-03-27,BTP135 - UCO Bank Junction,10.762978
+2024-03-27,BTP136 - Hosur-Tavarkere Road Junction,3.5026338
+2024-03-27,BTP137 - Madiwala Traffic PS Junction,6.5432343
+2024-03-27,BTP140 - Madiwala Check Post,3.3908088
+2024-03-27,BTP154 - Itmadu Junction,3.135855
+2024-03-27,BTP146 - Domlur Water Tank,3.135855
+2024-03-27,"BTP170 - Dr. Bheem Rao Palace, Chord Road",6.203976
+2024-03-27,BTP156 - Kamakya Junction,3.135855
+2024-03-27,BTP157 - Kadirenahalli Cross,3.135855
+2024-03-27,"BTP164 - 29th Main Road, BTM Layout",6.075239
+2024-03-27,BTP166 - Coffee Board Junction,3.135855
+2024-03-27,BTP167 - JC Road Junction,3.6666486
+2024-03-27,BTP104 - Medical College Circle,12.0147295
+2024-03-27,BTP119 - Minerva Circle,3.135855
+2024-03-27,BTP173 - TMC,3.2896802
+2024-03-27,BTP155 - Katriguppe Junction,3.2032464
+2024-03-27,BTP180 - Swagath Poornima Theatre,3.3570712
+2024-03-27,"BTP186 - 9th Cross, 4th Main, Jayanagar",10.677322
+2024-03-27,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.135855
+2024-03-27,BTP192 - Urvashi Theater,4.381545
+2024-03-27,BTP196 - Sarakki Main Road,3.135855
+2024-03-27,BTP205 - Modi Hospital Junction,8.658075
+2024-03-27,BTP203 - RRMR Junction,3.2896802
+2024-03-27,"BTP204 - ESI Hospital, Rajajinagar",6.658402
+2024-03-27,"BTP210 - 50th cross, 12th Main , Rajajinagar",4.739368
+2024-03-27,"BTP197 - 9th Cross, 24th Main, JP Nagar",3.3570712
+2024-03-27,BTP211 - Central Street Junction,24.000256
+2024-03-27,BTP215 - Vanivillas Junction,4.503447
+2024-03-27,BTP220 - Puttanna Junction,4.503447
+2024-03-27,"BTP221 - 15th Cross, 24th Main, JP Nagar",3.0834844
+2024-03-27,BTP225 - Geetha Junction,6.117917
+2024-03-27,No Junction,628.24457
+2024-03-27,BTP118 - Basappa Circle,3.6159623
+2024-03-27,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",3.135855
+2024-03-28,BTP020 - Hosahalli Metro Station,15.2893715
+2024-03-28,"BTP095 - Satellite Bus Stand, Mysore Road",3.8004308
+2024-03-28,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.799301
+2024-03-28,BTP010 - Rajajinagar Entrance,9.006571
+2024-03-28,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.1653175
+2024-03-28,"BTP016 - 5th Main Road, RPC Layout",8.073566
+2024-03-28,BTP017 - Attiguppe Circle,13.461787
+2024-03-28,BTP042 - Minsk Square Junction (CTO),25.80903
+2024-03-28,"BTP022 - Marenahalli Junction, Vijayanagar",7.8738933
+2024-03-28,BTP044 - Sagar Theatre Junction,62.028095
+2024-03-28,BTP023 - Mahalaxmi Layout Entrance,6.942626
+2024-03-28,BTP027 - Modi Bridge Junction,27.400906
+2024-03-28,BTP063 - Siddalingaiah Circle,9.0340605
+2024-03-28,BTP038 - Mysore Bank Junction,10.563593
+2024-03-28,BTP040 - Elite Junction,49.416893
+2024-03-28,BTP045 - Danvanthri Road Junction,11.450215
+2024-03-28,BTP018 - Dhobi Ghat Junction,6.2058535
+2024-03-28,"BTP024 - NPS, Vijayanagar",23.14333
+2024-03-28,BTP071 - Prasanna Junction,6.790374
+2024-03-28,BTP048 - Shanthala Junction,10.659074
+2024-03-28,BTP043 - Upparpet Junction,10.021729
+2024-03-28,BTP052 - CID Carlton House Junction,3.5811405
+2024-03-28,BTP053 - Three Let Junction,4.294898
+2024-03-28,BTP054 - Shivananda Circle,6.271727
+2024-03-28,BTP057 - Anand Rao Junction,19.235601
+2024-03-28,BTP058 - Subbanna Junction,20.422853
+2024-03-28,BTP061 - Bhashyam Circle,8.776404
+2024-03-28,BTP051 - Safina Plaza Junction,119.17562
+2024-03-28,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",8.949977
+2024-03-28,"BTP070 - Cholurpalya Junction, Magadi Road",18.550655
+2024-03-28,BTP074 - Leprosy Hospital Junction,19.879885
+2024-03-28,BTP075 - Police Corner,4.6920547
+2024-03-28,BTP076 - Hudson Circle,3.5373282
+2024-03-28,"BTP080 - NR Road, SP Road Junction",17.068235
+2024-03-28,BTP082 - KR Market Junction,101.13405
+2024-03-28,"BTP083 - AS Char Street, Mysore Road",18.33959
+2024-03-28,"BTP089 - Police Quarters, Sultan Road",5.654304
+2024-03-28,BTP091 - Sirsi Circle,4.829172
+2024-03-28,BTP030 - Mekhri Circle,4.7434664
+2024-03-28,BTP096 - Gali Anjaneya Temple,8.25402
+2024-03-28,"BTP159 - JP Nagar Metro, ORR",4.3210316
+2024-03-28,"BTP102 - BMTC Junction, KH Road",2.9820905
+2024-03-28,BTP103 - Shanti Nagar TTMC,2.9820905
+2024-03-28,No Junction,885.9463
+2024-03-28,BTP108 - Tagore Park Junction,9.582398
+2024-03-28,BTP109 - Dewan Madhava Rao Junction,4.474857
+2024-03-28,BTP118 - Basappa Circle,4.7140374
+2024-03-28,"BTP123 - 10th Cross, Wilson Garden",9.997748
+2024-03-28,"BTP099 - Cash Pharmacy, Residency Road",3.4170423
+2024-03-28,BTP130 - GD Mara Junction,8.305039
+2024-03-28,BTP132 - Anepalya Junction,4.474857
+2024-03-28,BTP133 - Adugodi Junction,3.2033067
+2024-03-28,BTP135 - UCO Bank Junction,11.268256
+2024-03-28,BTP155 - Katriguppe Junction,3.0494819
+2024-03-28,BTP157 - Kadirenahalli Cross,2.9820905
+2024-03-28,BTP104 - Medical College Circle,9.608543
+2024-03-28,BTP126 - Dairy Circle,2.9820905
+2024-03-28,BTP167 - JC Road Junction,4.707617
+2024-03-28,"BTP113 - 27th Cross, Pai Vista, KR Road",2.9820905
+2024-03-28,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",2.9820905
+2024-03-28,"BTP204 - ESI Hospital, Rajajinagar",5.168498
+2024-03-28,"BTP177 - Aurobindo Circle, ORR",3.0494819
+2024-03-28,"BTP186 - 9th Cross, 4th Main, Jayanagar",18.923445
+2024-03-28,BTP187 - South End Circle,2.9820905
+2024-03-28,"BTP191 - 40th Cross, 4th Main, Jayanagar",2.8156388
+2024-03-28,BTP192 - Urvashi Theater,5.303669
+2024-03-28,"BTP202 - East End Main Road, Jayanagar",2.9820905
+2024-03-28,BTP205 - Modi Hospital Junction,8.722201
+2024-03-28,"BTP210 - 50th cross, 12th Main , Rajajinagar",6.6091194
+2024-03-28,BTP208 - Havanur Circle,8.628308
+2024-03-28,BTP211 - Central Street Junction,32.231667
+2024-03-28,BTP219 - Canara Bank Junction,2.92972
+2024-03-28,BTP220 - Puttanna Junction,6.2956285
+2024-03-28,"BTP221 - 15th Cross, 24th Main, JP Nagar",4.468421
+2024-03-28,BTP225 - Geetha Junction,3.130047
+2024-03-28,"BTP226 - 33rd Cross, 11th Main, Jayanagar",3.4431446
+2024-03-28,BTP098 - Nayandahalli Junction,3.4844332
+2024-03-28,BTP173 - TMC,3.1359158
+2024-03-29,BTP045 - Danvanthri Road Junction,17.084724
+2024-03-29,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.9877315
+2024-03-29,BTP010 - Rajajinagar Entrance,9.095909
+2024-03-29,"BTP024 - NPS, Vijayanagar",23.355785
+2024-03-29,"BTP001 - 10th Cross, Dr. Rajkumar Road",11.850845
+2024-03-29,"BTP113 - 27th Cross, Pai Vista, KR Road",2.52285
+2024-03-29,BTP020 - Hosahalli Metro Station,16.066925
+2024-03-29,BTP008 - Navarang Theatre,6.9758263
+2024-03-29,"BTP022 - Marenahalli Junction, Vijayanagar",9.196183
+2024-03-29,BTP028 - Vijayanagar Bus Stand Junction,7.569156
+2024-03-29,"BTP026 - 1st Block Junction, Rajajinagar",6.548837
+2024-03-29,BTP044 - Sagar Theatre Junction,63.367558
+2024-03-29,BTP030 - Mekhri Circle,6.5939326
+2024-03-29,BTP032 - Windsor Circle,9.927033
+2024-03-29,BTP037 - KR Circle,3.7281303
+2024-03-29,BTP038 - Mysore Bank Junction,10.40283
+2024-03-29,BTP040 - Elite Junction,75.96522
+2024-03-29,BTP023 - Mahalaxmi Layout Entrance,10.711507
+2024-03-29,BTP027 - Modi Bridge Junction,29.211538
+2024-03-29,BTP054 - Shivananda Circle,11.91376
+2024-03-29,BTP107 - National College Junction,3.0714283
+2024-03-29,BTP053 - Three Let Junction,6.056433
+2024-03-29,BTP043 - Upparpet Junction,13.305363
+2024-03-29,BTP078 - NR Square Junction,3.3146038
+2024-03-29,BTP057 - Anand Rao Junction,27.745438
+2024-03-29,BTP058 - Subbanna Junction,21.024658
+2024-03-29,BTP063 - Siddalingaiah Circle,20.409472
+2024-03-29,"BTP070 - Cholurpalya Junction, Magadi Road",13.4908085
+2024-03-29,BTP071 - Prasanna Junction,6.879712
+2024-03-29,BTP051 - Safina Plaza Junction,102.22491
+2024-03-29,BTP074 - Leprosy Hospital Junction,17.990189
+2024-03-29,"BTP080 - NR Road, SP Road Junction",13.963056
+2024-03-29,BTP082 - KR Market Junction,75.59742
+2024-03-29,"BTP083 - AS Char Street, Mysore Road",17.501469
+2024-03-29,BTP096 - Gali Anjaneya Temple,7.4359665
+2024-03-29,"BTP099 - Cash Pharmacy, Residency Road",3.50638
+2024-03-29,BTP100 - Richmond Circle,3.50638
+2024-03-29,BTP104 - Medical College Circle,10.770573
+2024-03-29,BTP048 - Shanthala Junction,9.167392
+2024-03-29,"BTP095 - Satellite Bus Stand, Mysore Road",3.1707551
+2024-03-29,BTP108 - Tagore Park Junction,11.120932
+2024-03-29,BTP042 - Minsk Square Junction (CTO),15.841802
+2024-03-29,"BTP115 - Sahasra Hospital, Jayanagar",3.1388197
+2024-03-29,BTP140 - Madiwala Check Post,3.3263822
+2024-03-29,BTP119 - Minerva Circle,3.0714283
+2024-03-29,"BTP123 - 10th Cross, Wilson Garden",10.237915
+2024-03-29,BTP126 - Dairy Circle,3.0714283
+2024-03-29,"BTP127 - Sagar Hospital, Jayanagar",3.0714283
+2024-03-29,BTP130 - GD Mara Junction,14.245193
+2024-03-29,BTP135 - UCO Bank Junction,10.403012
+2024-03-29,BTP137 - Madiwala Traffic PS Junction,6.1832695
+2024-03-29,"BTP177 - Aurobindo Circle, ORR",5.611212
+2024-03-29,BTP155 - Katriguppe Junction,6.1707377
+2024-03-29,BTP156 - Kamakya Junction,3.0714283
+2024-03-29,BTP167 - JC Road Junction,3.6086426
+2024-03-29,BTP166 - Coffee Board Junction,3.0714283
+2024-03-29,"BTP168 - MSR Building, JC Road",3.0714283
+2024-03-29,"BTP159 - JP Nagar Metro, ORR",5.6542916
+2024-03-29,BTP157 - Kadirenahalli Cross,4.41037
+2024-03-29,BTP172 - Nanjappa Circle,7.033362
+2024-03-29,BTP118 - Basappa Circle,4.8033757
+2024-03-29,"BTP164 - 29th Main Road, BTM Layout",3.2926445
+2024-03-29,"BTP226 - 33rd Cross, 11th Main, Jayanagar",6.337772
+2024-03-29,BTP133 - Adugodi Junction,2.52285
+2024-03-29,No Junction,979.02747
+2024-03-29,BTP205 - Modi Hospital Junction,6.427412
+2024-03-29,"BTP182 - 19th Main Junction, Rajajinagar",7.033362
+2024-03-29,BTP184 - Lalbagh West Gate,3.0714283
+2024-03-29,"BTP186 - 9th Cross, 4th Main, Jayanagar",15.847745
+2024-03-29,"BTP188 - 27th Cross, 4th Main, Jayanagar",3.3263822
+2024-03-29,"BTP189 - New Diagonal Road, Jayanagar",3.2843814
+2024-03-29,"BTP191 - 40th Cross, 4th Main, Jayanagar",4.564195
+2024-03-29,BTP192 - Urvashi Theater,5.427032
+2024-03-29,BTP193 - Vasavi Circle,3.0714283
+2024-03-29,"BTP190 - 36th Cross, 4th Main, Jayanagar",4.564195
+2024-03-29,BTP180 - Swagath Poornima Theatre,3.1261928
+2024-03-29,BTP208 - Havanur Circle,7.033362
+2024-03-29,BTP211 - Central Street Junction,41.664597
+2024-03-29,BTP215 - Vanivillas Junction,3.240274
+2024-03-29,BTP216 - Yediyur Junction,3.0738223
+2024-03-29,BTP217 - Baleyele Junction,3.0864491
+2024-03-29,"BTP206 - Shankara Mutt Circle, Vijayanagar",3.9319355
+2024-03-29,BTP225 - Geetha Junction,4.549767
+2024-03-29,"BTP117 - 9th Cross, Kanakapura Road",3.094706
+2024-03-30,BTP091 - Sirsi Circle,3.6942868
+2024-03-30,BTP017 - Attiguppe Circle,10.167312
+2024-03-30,"BTP016 - 5th Main Road, RPC Layout",8.498187
+2024-03-30,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",10.698721
+2024-03-30,"BTP001 - 10th Cross, Dr. Rajkumar Road",32.030304
+2024-03-30,BTP009 - Prakash Nagar Junction,11.99209
+2024-03-30,BTP020 - Hosahalli Metro Station,19.226595
+2024-03-30,BTP010 - Rajajinagar Entrance,10.628495
+2024-03-30,"BTP022 - Marenahalli Junction, Vijayanagar",10.203382
+2024-03-30,BTP041 - Gopal Gowda Circle,4.683335
+2024-03-30,"BTP024 - NPS, Vijayanagar",18.650259
+2024-03-30,"BTP026 - 1st Block Junction, Rajajinagar",8.411016
+2024-03-30,BTP027 - Modi Bridge Junction,21.60853
+2024-03-30,BTP030 - Mekhri Circle,3.9241478
+2024-03-30,BTP037 - KR Circle,5.5426598
+2024-03-30,BTP038 - Mysore Bank Junction,8.726542
+2024-03-30,BTP040 - Elite Junction,65.61158
+2024-03-30,BTP042 - Minsk Square Junction (CTO),20.737457
+2024-03-30,BTP043 - Upparpet Junction,17.35589
+2024-03-30,BTP023 - Mahalaxmi Layout Entrance,15.796098
+2024-03-30,BTP044 - Sagar Theatre Junction,55.676117
+2024-03-30,BTP051 - Safina Plaza Junction,88.681984
+2024-03-30,BTP048 - Shanthala Junction,10.377687
+2024-03-30,"BTP089 - Police Quarters, Sultan Road",3.7035446
+2024-03-30,BTP054 - Shivananda Circle,9.521468
+2024-03-30,BTP057 - Anand Rao Junction,22.817038
+2024-03-30,BTP058 - Subbanna Junction,26.035757
+2024-03-30,BTP061 - Bhashyam Circle,6.6837997
+2024-03-30,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.7208877
+2024-03-30,BTP063 - Siddalingaiah Circle,8.030003
+2024-03-30,BTP064 - Devanga Hostel Junction,3.4936633
+2024-03-30,BTP067 - Jai Muni Rao Circle,3.7208877
+2024-03-30,BTP008 - Navarang Theatre,14.867939
+2024-03-30,BTP082 - KR Market Junction,61.759136
+2024-03-30,"BTP070 - Cholurpalya Junction, Magadi Road",13.928483
+2024-03-30,BTP071 - Prasanna Junction,5.8838477
+2024-03-30,BTP068 - Veeresh Theatre Junction,4.585303
+2024-03-30,BTP075 - Police Corner,3.3680048
+2024-03-30,BTP076 - Hudson Circle,3.62296
+2024-03-30,BTP079 - Town Hall Junction,5.107358
+2024-03-30,"BTP080 - NR Road, SP Road Junction",21.691973
+2024-03-30,"BTP083 - AS Char Street, Mysore Road",16.911198
+2024-03-30,BTP045 - Danvanthri Road Junction,17.38543
+2024-03-30,BTP069 - MC Circle,10.314589
+2024-03-30,BTP185 - RV Teachers College,3.1248293
+2024-03-30,BTP074 - Leprosy Hospital Junction,16.609205
+2024-03-30,"BTP189 - New Diagonal Road, Jayanagar",8.862406
+2024-03-30,BTP142 - Lower Agram Road Junction,3.1248293
+2024-03-30,BTP096 - Gali Anjaneya Temple,8.775768
+2024-03-30,BTP103 - Shanti Nagar TTMC,3.1248293
+2024-03-30,BTP104 - Medical College Circle,9.949606
+2024-03-30,BTP105 - Shivasankara Circle,4.6473336
+2024-03-30,BTP106 - VV Puram College,3.3797832
+2024-03-30,BTP108 - Tagore Park Junction,8.53801
+2024-03-30,"BTP112 - 14th Cross, KR Road",3.1248293
+2024-03-30,"BTP113 - 27th Cross, Pai Vista, KR Road",5.553867
+2024-03-30,"BTP102 - BMTC Junction, KH Road",4.463771
+2024-03-30,"BTP117 - 9th Cross, Kanakapura Road",5.2925825
+2024-03-30,BTP130 - GD Mara Junction,8.68989
+2024-03-30,BTP118 - Basappa Circle,3.6049366
+2024-03-30,BTP135 - UCO Bank Junction,10.456413
+2024-03-30,BTP137 - Madiwala Traffic PS Junction,5.272
+2024-03-30,BTP126 - Dairy Circle,3.460369
+2024-03-30,"BTP123 - 10th Cross, Wilson Garden",10.213978
+2024-03-30,BTP140 - Madiwala Check Post,3.0529068
+2024-03-30,"BTP094 - Sri Skanda Complex, Mysore Road",3.3680048
+2024-03-30,"BTP115 - Sahasra Hospital, Jayanagar",4.617596
+2024-03-30,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.1248293
+2024-03-30,BTP122 - Siddapura Junction,3.1248293
+2024-03-30,BTP157 - Kadirenahalli Cross,4.463771
+2024-03-30,BTP218 - Syndicate Bank Junction,3.1398501
+2024-03-30,"BTP159 - JP Nagar Metro, ORR",3.3460455
+2024-03-30,BTP166 - Coffee Board Junction,3.8424957
+2024-03-30,BTP180 - Swagath Poornima Theatre,4.89016
+2024-03-30,"BTP182 - 19th Main Junction, Rajajinagar",9.184899
+2024-03-30,BTP184 - Lalbagh West Gate,5.553867
+2024-03-30,No Junction,935.3137
+2024-03-30,"BTP186 - 9th Cross, 4th Main, Jayanagar",34.660465
+2024-03-30,BTP187 - South End Circle,3.1248293
+2024-03-30,BTP192 - Urvashi Theater,5.591086
+2024-03-30,"BTP163 - 16th Main Road, BTM Layout",3.1248293
+2024-03-30,"BTP197 - 9th Cross, 24th Main, JP Nagar",5.553867
+2024-03-30,"BTP200 - 15th Cross, 33rd Main, JP Nagar",3.1248293
+2024-03-30,"BTP204 - ESI Hospital, Rajajinagar",3.6620436
+2024-03-30,BTP205 - Modi Hospital Junction,8.669622
+2024-03-30,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.533609
+2024-03-30,BTP211 - Central Street Junction,30.750816
+2024-03-30,BTP215 - Vanivillas Junction,3.293675
+2024-03-30,"BTP095 - Satellite Bus Stand, Mysore Road",6.3849435
+2024-03-30,BTP219 - Canara Bank Junction,3.293675
+2024-03-30,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.533609
+2024-03-31,"BTP024 - NPS, Vijayanagar",18.670483
+2024-03-31,BTP023 - Mahalaxmi Layout Entrance,12.9623995
+2024-03-31,BTP107 - National College Junction,3.144028
+2024-03-31,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",6.7752585
+2024-03-31,BTP010 - Rajajinagar Entrance,7.331744
+2024-03-31,"BTP001 - 10th Cross, Dr. Rajkumar Road",27.049767
+2024-03-31,"BTP022 - Marenahalli Junction, Vijayanagar",9.629336
+2024-03-31,"BTP026 - 1st Block Junction, Rajajinagar",16.5688
+2024-03-31,BTP038 - Mysore Bank Junction,18.814922
+2024-03-31,BTP030 - Mekhri Circle,5.704475
+2024-03-31,BTP037 - KR Circle,5.5618587
+2024-03-31,BTP040 - Elite Junction,91.16136
+2024-03-31,BTP043 - Upparpet Junction,14.539115
+2024-03-31,BTP044 - Sagar Theatre Junction,65.48628
+2024-03-31,BTP045 - Danvanthri Road Junction,21.099625
+2024-03-31,BTP051 - Safina Plaza Junction,219.22713
+2024-03-31,BTP048 - Shanthala Junction,12.054946
+2024-03-31,BTP027 - Modi Bridge Junction,24.17141
+2024-03-31,BTP054 - Shivananda Circle,10.228162
+2024-03-31,BTP103 - Shanti Nagar TTMC,3.144028
+2024-03-31,BTP058 - Subbanna Junction,23.583513
+2024-03-31,BTP104 - Medical College Circle,11.9632225
+2024-03-31,BTP061 - Bhashyam Circle,9.996895
+2024-03-31,BTP076 - Hudson Circle,4.9647393
+2024-03-31,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",5.062667
+2024-03-31,BTP063 - Siddalingaiah Circle,10.807676
+2024-03-31,BTP069 - MC Circle,8.988474
+2024-03-31,"BTP070 - Cholurpalya Junction, Magadi Road",15.009098
+2024-03-31,BTP071 - Prasanna Junction,8.588959
+2024-03-31,BTP008 - Navarang Theatre,13.2915535
+2024-03-31,BTP074 - Leprosy Hospital Junction,12.894112
+2024-03-31,BTP078 - NR Square Junction,3.3872035
+2024-03-31,"BTP080 - NR Road, SP Road Junction",21.371271
+2024-03-31,BTP082 - KR Market Junction,189.40073
+2024-03-31,"BTP083 - AS Char Street, Mysore Road",14.035656
+2024-03-31,BTP085 - Briyand Circle,3.3872035
+2024-03-31,"BTP089 - Police Quarters, Sultan Road",4.7261457
+2024-03-31,"BTP095 - Satellite Bus Stand, Mysore Road",6.1694493
+2024-03-31,BTP057 - Anand Rao Junction,35.366257
+2024-03-31,BTP075 - Police Corner,3.3872035
+2024-03-31,BTP096 - Gali Anjaneya Temple,9.622538
+2024-03-31,BTP184 - Lalbagh West Gate,3.2978532
+2024-03-31,BTP208 - Havanur Circle,7.105962
+2024-03-31,"BTP113 - 27th Cross, Pai Vista, KR Road",4.909359
+2024-03-31,"BTP168 - MSR Building, JC Road",3.2114193
+2024-03-31,"BTP115 - Sahasra Hospital, Jayanagar",6.07233
+2024-03-31,"BTP117 - 9th Cross, Kanakapura Road",3.391454
+2024-03-31,BTP118 - Basappa Circle,6.1943436
+2024-03-31,BTP120 - Lalbagh Main Gate Junction,3.2978532
+2024-03-31,"BTP123 - 10th Cross, Wilson Garden",11.285457
+2024-03-31,BTP126 - Dairy Circle,3.144028
+2024-03-31,BTP122 - Siddapura Junction,5.5730658
+2024-03-31,BTP132 - Anepalya Junction,3.3652442
+2024-03-31,BTP137 - Madiwala Traffic PS Junction,13.171831
+2024-03-31,"BTP163 - 16th Main Road, BTM Layout",11.322454
+2024-03-31,BTP157 - Kadirenahalli Cross,3.144028
+2024-03-31,BTP138 - Sarjapur Road Check Post,3.144028
+2024-03-31,"BTP159 - JP Nagar Metro, ORR",4.636795
+2024-03-31,BTP108 - Tagore Park Junction,10.632758
+2024-03-31,BTP133 - Adugodi Junction,3.144028
+2024-03-31,BTP130 - GD Mara Junction,17.53256
+2024-03-31,BTP172 - Nanjappa Circle,6.668902
+2024-03-31,BTP135 - UCO Bank Junction,11.664888
+2024-03-31,"BTP177 - Aurobindo Circle, ORR",3.2114193
+2024-03-31,"BTP206 - Shankara Mutt Circle, Vijayanagar",5.3117814
+2024-03-31,BTP185 - RV Teachers College,5.807759
+2024-03-31,"BTP186 - 9th Cross, 4th Main, Jayanagar",33.12479
+2024-03-31,"BTP189 - New Diagonal Road, Jayanagar",8.253571
+2024-03-31,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.2978532
+2024-03-31,BTP192 - Urvashi Theater,8.371761
+2024-03-31,"BTP197 - 9th Cross, 24th Main, JP Nagar",5.876504
+2024-03-31,BTP211 - Central Street Junction,58.721046
+2024-03-31,"BTP182 - 19th Main Junction, Rajajinagar",12.481443
+2024-03-31,BTP215 - Vanivillas Junction,4.5116205
+2024-03-31,BTP218 - Syndicate Bank Junction,5.0169444
+2024-03-31,BTP219 - Canara Bank Junction,5.9471555
+2024-03-31,BTP220 - Puttanna Junction,3.500437
+2024-03-31,BTP225 - Geetha Junction,3.500437
+2024-03-31,"BTP226 - 33rd Cross, 11th Main, Jayanagar",3.7926455
+2024-03-31,No Junction,1016.5606
+2024-03-31,BTP173 - TMC,3.2978532
+2024-03-31,BTP109 - Dewan Madhava Rao Junction,3.3652442
+2024-04-01,BTP045 - Danvanthri Road Junction,21.50439
+2024-04-01,"BTP022 - Marenahalli Junction, Vijayanagar",8.183396
+2024-04-01,BTP085 - Briyand Circle,3.475512
+2024-04-01,"BTP001 - 10th Cross, Dr. Rajkumar Road",19.855083
+2024-04-01,BTP008 - Navarang Theatre,14.365257
+2024-04-01,BTP009 - Prakash Nagar Junction,4.602472
+2024-04-01,BTP010 - Rajajinagar Entrance,7.615773
+2024-04-01,BTP044 - Sagar Theatre Junction,38.880226
+2024-04-01,BTP018 - Dhobi Ghat Junction,6.0994925
+2024-04-01,BTP023 - Mahalaxmi Layout Entrance,14.615379
+2024-04-01,"BTP024 - NPS, Vijayanagar",21.087667
+2024-04-01,"BTP026 - 1st Block Junction, Rajajinagar",10.64345
+2024-04-01,BTP027 - Modi Bridge Junction,25.189571
+2024-04-01,BTP028 - Vijayanagar Bus Stand Junction,6.248404
+2024-04-01,BTP040 - Elite Junction,67.484604
+2024-04-01,BTP030 - Mekhri Circle,4.926321
+2024-04-01,"BTP016 - 5th Main Road, RPC Layout",8.888043
+2024-04-01,BTP048 - Shanthala Junction,12.539257
+2024-04-01,BTP067 - Jai Muni Rao Circle,3.6011705
+2024-04-01,BTP082 - KR Market Junction,64.64208
+2024-04-01,BTP038 - Mysore Bank Junction,11.287305
+2024-04-01,BTP064 - Devanga Hostel Junction,3.5337787
+2024-04-01,BTP054 - Shivananda Circle,10.990529
+2024-04-01,BTP057 - Anand Rao Junction,40.3577
+2024-04-01,BTP058 - Subbanna Junction,19.418587
+2024-04-01,BTP061 - Bhashyam Circle,9.023291
+2024-04-01,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",6.173679
+2024-04-01,"BTP083 - AS Char Street, Mysore Road",13.326318
+2024-04-01,BTP063 - Siddalingaiah Circle,13.123804
+2024-04-01,"BTP070 - Cholurpalya Junction, Magadi Road",15.688314
+2024-04-01,BTP068 - Veeresh Theatre Junction,4.856775
+2024-04-01,BTP047 - Vidhan Soudha Metro Station,4.0611615
+2024-04-01,BTP071 - Prasanna Junction,7.268767
+2024-04-01,BTP074 - Leprosy Hospital Junction,12.660425
+2024-04-01,BTP076 - Hudson Circle,6.197765
+2024-04-01,"BTP080 - NR Road, SP Road Junction",18.5396
+2024-04-01,BTP051 - Safina Plaza Junction,72.9032
+2024-04-01,BTP043 - Upparpet Junction,10.412033
+2024-04-01,"BTP025 - Puttamma Choultry, Nagarbhavi",4.4016495
+2024-04-01,"BTP113 - 27th Cross, Pai Vista, KR Road",5.747808
+2024-04-01,BTP118 - Basappa Circle,3.702159
+2024-04-01,BTP136 - Hosur-Tavarkere Road Junction,3.1649446
+2024-04-01,"BTP102 - BMTC Junction, KH Road",5.747808
+2024-04-01,BTP104 - Medical College Circle,8.437866
+2024-04-01,BTP107 - National College Junction,3.1649446
+2024-04-01,BTP108 - Tagore Park Junction,14.738139
+2024-04-01,"BTP115 - Sahasra Hospital, Jayanagar",3.5317235
+2024-04-01,BTP137 - Madiwala Traffic PS Junction,5.231346
+2024-04-01,BTP109 - Dewan Madhava Rao Junction,4.9302754
+2024-04-01,"BTP123 - 10th Cross, Wilson Garden",14.577535
+2024-04-01,BTP126 - Dairy Circle,4.9302754
+2024-04-01,"BTP127 - Sagar Hospital, Jayanagar",2.6163664
+2024-04-01,BTP130 - GD Mara Junction,9.330677
+2024-04-01,BTP132 - Anepalya Junction,3.3861609
+2024-04-01,BTP133 - Adugodi Junction,4.6577115
+2024-04-01,"BTP089 - Police Quarters, Sultan Road",5.8371587
+2024-04-01,BTP122 - Siddapura Junction,4.77645
+2024-04-01,"BTP186 - 9th Cross, 4th Main, Jayanagar",10.536614
+2024-04-01,"BTP101 - Blood Bank Circle, KH Road",3.5998964
+2024-04-01,BTP098 - Nayandahalli Junction,4.9388375
+2024-04-01,BTP091 - Sirsi Circle,3.6630754
+2024-04-01,"BTP204 - ESI Hospital, Rajajinagar",3.6957383
+2024-04-01,"BTP163 - 16th Main Road, BTM Layout",5.1765213
+2024-04-01,"BTP170 - Dr. Bheem Rao Palace, Chord Road",4.1092434
+2024-04-01,BTP172 - Nanjappa Circle,7.86539
+2024-04-01,"BTP177 - Aurobindo Circle, ORR",3.232336
+2024-04-01,"BTP159 - JP Nagar Metro, ORR",3.2197092
+2024-04-01,BTP184 - Lalbagh West Gate,5.8165526
+2024-04-01,BTP192 - Urvashi Theater,8.810043
+2024-04-01,"BTP182 - 19th Main Junction, Rajajinagar",12.5384
+2024-04-01,No Junction,885.1306
+2024-04-01,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.5737243
+2024-04-01,BTP208 - Havanur Circle,8.8566
+2024-04-01,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.5737243
+2024-04-01,BTP211 - Central Street Junction,69.88865
+2024-04-01,BTP215 - Vanivillas Junction,4.805101
+2024-04-01,"BTP226 - 33rd Cross, 11th Main, Jayanagar",3.5403783
+2024-04-01,"BTP206 - Shankara Mutt Circle, Vijayanagar",6.5904455
+2024-04-02,BTP020 - Hosahalli Metro Station,18.218777
+2024-04-02,BTP018 - Dhobi Ghat Junction,8.558834
+2024-04-02,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",7.7006927
+2024-04-02,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.750702
+2024-04-02,BTP009 - Prakash Nagar Junction,4.602472
+2024-04-02,BTP008 - Navarang Theatre,19.655107
+2024-04-02,BTP023 - Mahalaxmi Layout Entrance,11.53569
+2024-04-02,BTP010 - Rajajinagar Entrance,7.5885315
+2024-04-02,"BTP026 - 1st Block Junction, Rajajinagar",11.844362
+2024-04-02,BTP042 - Minsk Square Junction (CTO),14.638867
+2024-04-02,BTP091 - Sirsi Circle,3.6630754
+2024-04-02,BTP028 - Vijayanagar Bus Stand Junction,8.183376
+2024-04-02,BTP035 - Basaweshwara Circle (LH) Junction,3.8216467
+2024-04-02,BTP037 - KR Circle,3.8216467
+2024-04-02,BTP038 - Mysore Bank Junction,16.585331
+2024-04-02,BTP040 - Elite Junction,70.8083
+2024-04-02,BTP041 - Gopal Gowda Circle,4.698548
+2024-04-02,"BTP024 - NPS, Vijayanagar",17.936466
+2024-04-02,BTP043 - Upparpet Junction,12.150646
+2024-04-02,BTP044 - Sagar Theatre Junction,43.75579
+2024-04-02,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.761003
+2024-04-02,BTP048 - Shanthala Junction,10.246252
+2024-04-02,BTP058 - Subbanna Junction,33.010246
+2024-04-02,"BTP089 - Police Quarters, Sultan Road",5.9059033
+2024-04-02,BTP061 - Bhashyam Circle,10.639336
+2024-04-02,BTP052 - CID Carlton House Junction,3.7639947
+2024-04-02,BTP057 - Anand Rao Junction,35.874542
+2024-04-02,BTP054 - Shivananda Circle,7.5792065
+2024-04-02,BTP064 - Devanga Hostel Junction,3.5337787
+2024-04-02,BTP051 - Safina Plaza Junction,44.403645
+2024-04-02,BTP027 - Modi Bridge Junction,25.929123
+2024-04-02,BTP063 - Siddalingaiah Circle,10.432644
+2024-04-02,BTP067 - Jai Muni Rao Circle,5.069313
+2024-04-02,BTP069 - MC Circle,7.7428975
+2024-04-02,BTP075 - Police Corner,3.4081202
+2024-04-02,BTP076 - Hudson Circle,12.301588
+2024-04-02,"BTP080 - NR Road, SP Road Junction",28.712936
+2024-04-02,BTP082 - KR Market Junction,105.88745
+2024-04-02,"BTP083 - AS Char Street, Mysore Road",15.279768
+2024-04-02,BTP045 - Danvanthri Road Junction,17.484983
+2024-04-02,"BTP070 - Cholurpalya Junction, Magadi Road",12.52902
+2024-04-02,BTP068 - Veeresh Theatre Junction,10.61079
+2024-04-02,"BTP189 - New Diagonal Road, Jayanagar",4.1092434
+2024-04-02,BTP192 - Urvashi Theater,8.203424
+2024-04-02,BTP138 - Sarjapur Road Check Post,2.6163664
+2024-04-02,BTP107 - National College Junction,4.503886
+2024-04-02,BTP108 - Tagore Park Junction,18.942802
+2024-04-02,BTP109 - Dewan Madhava Rao Junction,4.6577115
+2024-04-02,"BTP110 - Bharathi Nursing Home, Basavanagudi",3.1649446
+2024-04-02,"BTP113 - 27th Cross, Pai Vista, KR Road",3.3861609
+2024-04-02,"BTP115 - Sahasra Hospital, Jayanagar",3.3861609
+2024-04-02,"BTP093 - Toll Gate, Mysore Road",3.4081202
+2024-04-02,BTP119 - Minerva Circle,4.503886
+2024-04-02,BTP104 - Medical College Circle,9.330677
+2024-04-02,BTP133 - Adugodi Junction,3.6712432
+2024-04-02,BTP122 - Siddapura Junction,6.104329
+2024-04-02,BTP136 - Hosur-Tavarkere Road Junction,5.593982
+2024-04-02,BTP135 - UCO Bank Junction,7.4224167
+2024-04-02,BTP137 - Madiwala Traffic PS Junction,7.0515695
+2024-04-02,"BTP127 - Sagar Hospital, Jayanagar",5.593982
+2024-04-02,BTP126 - Dairy Circle,6.2150745
+2024-04-02,"BTP123 - 10th Cross, Wilson Garden",17.442623
+2024-04-02,BTP121 - KH Circle,2.6163664
+2024-04-02,BTP140 - Madiwala Check Post,3.4198985
+2024-04-02,BTP118 - Basappa Circle,4.8904715
+2024-04-02,BTP155 - Katriguppe Junction,3.5737243
+2024-04-02,"BTP226 - 33rd Cross, 11th Main, Jayanagar",11.668253
+2024-04-02,BTP158 - Devegowda Petrol Bunk,3.1649446
+2024-04-02,"BTP170 - Dr. Bheem Rao Palace, Chord Road",8.019469
+2024-04-02,"BTP179 - 9th Block, 28th Main, Jayanagar",3.1649446
+2024-04-02,BTP180 - Swagath Poornima Theatre,3.1649446
+2024-04-02,"BTP182 - 19th Main Junction, Rajajinagar",12.086376
+2024-04-02,"BTP188 - 27th Cross, 4th Main, Jayanagar",6.233066
+2024-04-02,"BTP202 - East End Main Road, Jayanagar",3.1649446
+2024-04-02,"BTP186 - 9th Cross, 4th Main, Jayanagar",21.536144
+2024-04-02,"BTP204 - ESI Hospital, Rajajinagar",3.6957383
+2024-04-02,No Junction,978.4272
+2024-04-02,BTP154 - Itmadu Junction,3.1649446
+2024-04-02,BTP225 - Geetha Junction,3.3129013
+2024-04-02,"BTP221 - 15th Cross, 24th Main, JP Nagar",3.112574
+2024-04-02,"BTP099 - Cash Pharmacy, Residency Road",3.5998964
+2024-04-02,"BTP210 - 50th cross, 12th Main , Rajajinagar",5.8585534
+2024-04-02,BTP208 - Havanur Circle,8.581032
+2024-04-02,BTP215 - Vanivillas Junction,11.483803
+2024-04-03,"BTP022 - Marenahalli Junction, Vijayanagar",8.154307
+2024-04-03,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.868391
+2024-04-03,BTP008 - Navarang Theatre,14.077956
+2024-04-03,BTP009 - Prakash Nagar Junction,10.150769
+2024-04-03,BTP010 - Rajajinagar Entrance,8.153753
+2024-04-03,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",11.062999
+2024-04-03,"BTP016 - 5th Main Road, RPC Layout",9.011601
+2024-04-03,BTP020 - Hosahalli Metro Station,20.952911
+2024-04-03,BTP023 - Mahalaxmi Layout Entrance,12.735453
+2024-04-03,BTP040 - Elite Junction,61.82562
+2024-04-03,"BTP026 - 1st Block Junction, Rajajinagar",12.14126
+2024-04-03,BTP027 - Modi Bridge Junction,27.308413
+2024-04-03,BTP028 - Vijayanagar Bus Stand Junction,8.346145
+2024-04-03,BTP030 - Mekhri Circle,5.544044
+2024-04-03,"BTP033 - Sophia High School, Sankey Road",3.792557
+2024-04-03,BTP034 - LRDE Junction,3.792557
+2024-04-03,BTP037 - KR Circle,3.792557
+2024-04-03,BTP038 - Mysore Bank Junction,14.143739
+2024-04-03,BTP041 - Gopal Gowda Circle,7.4335814
+2024-04-03,"BTP024 - NPS, Vijayanagar",14.068484
+2024-04-03,BTP042 - Minsk Square Junction (CTO),15.7233
+2024-04-03,BTP085 - Briyand Circle,3.3790305
+2024-04-03,BTP044 - Sagar Theatre Junction,55.76537
+2024-04-03,BTP048 - Shanthala Junction,10.279264
+2024-04-03,BTP051 - Safina Plaza Junction,75.97932
+2024-04-03,BTP057 - Anand Rao Junction,33.739246
+2024-04-03,BTP058 - Subbanna Junction,31.911293
+2024-04-03,BTP061 - Bhashyam Circle,9.53726
+2024-04-03,BTP045 - Danvanthri Road Junction,20.928696
+2024-04-03,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",5.0544934
+2024-04-03,BTP068 - Veeresh Theatre Junction,3.1690645
+2024-04-03,BTP067 - Jai Muni Rao Circle,4.9714775
+2024-04-03,BTP074 - Leprosy Hospital Junction,13.832005
+2024-04-03,BTP069 - MC Circle,9.988533
+2024-04-03,"BTP070 - Cholurpalya Junction, Magadi Road",10.803118
+2024-04-03,BTP071 - Prasanna Junction,6.1904116
+2024-04-03,BTP075 - Police Corner,4.8458195
+2024-04-03,BTP076 - Hudson Circle,8.64163
+2024-04-03,"BTP080 - NR Road, SP Road Junction",30.629004
+2024-04-03,BTP082 - KR Market Junction,62.00092
+2024-04-03,"BTP083 - AS Char Street, Mysore Road",17.897984
+2024-04-03,BTP043 - Upparpet Junction,13.002266
+2024-04-03,"BTP089 - Police Quarters, Sultan Road",4.786718
+2024-04-03,BTP192 - Urvashi Theater,6.9118266
+2024-04-03,BTP063 - Siddalingaiah Circle,11.142216
+2024-04-03,BTP158 - Devegowda Petrol Bunk,2.9694033
+2024-04-03,BTP155 - Katriguppe Junction,14.778451
+2024-04-03,"BTP102 - BMTC Junction, KH Road",3.2896802
+2024-04-03,BTP103 - Shanti Nagar TTMC,3.135855
+2024-04-03,BTP104 - Medical College Circle,14.028078
+2024-04-03,BTP107 - National College Junction,4.4747963
+2024-04-03,BTP108 - Tagore Park Junction,17.340712
+2024-04-03,"BTP114 - KR Road Junction, Near JSS",3.135855
+2024-04-03,"BTP117 - 9th Cross, Kanakapura Road",3.312958
+2024-04-03,BTP118 - Basappa Circle,6.5604963
+2024-04-03,"BTP099 - Cash Pharmacy, Residency Road",5.1823115
+2024-04-03,"BTP123 - 10th Cross, Wilson Garden",13.209164
+2024-04-03,"BTP127 - Sagar Hospital, Jayanagar",3.135855
+2024-04-03,BTP130 - GD Mara Junction,10.663488
+2024-04-03,BTP133 - Adugodi Junction,5.8294635
+2024-04-03,BTP136 - Hosur-Tavarkere Road Junction,3.2032464
+2024-04-03,BTP137 - Madiwala Traffic PS Junction,6.9118266
+2024-04-03,BTP143 - ASC Junction,3.135855
+2024-04-03,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.3908088
+2024-04-03,BTP126 - Dairy Circle,6.1859846
+2024-04-03,BTP120 - Lalbagh Main Gate Junction,3.135855
+2024-04-03,BTP156 - Kamakya Junction,3.135855
+2024-04-03,BTP091 - Sirsi Circle,5.1012826
+2024-04-03,"BTP159 - JP Nagar Metro, ORR",3.3570712
+2024-04-03,"BTP093 - Toll Gate, Mysore Road",4.7179723
+2024-04-03,"BTP163 - 16th Main Road, BTM Layout",4.23771
+2024-04-03,"BTP164 - 29th Main Road, BTM Layout",3.135855
+2024-04-03,BTP167 - JC Road Junction,3.6666486
+2024-04-03,"BTP170 - Dr. Bheem Rao Palace, Chord Road",5.786997
+2024-04-03,BTP172 - Nanjappa Circle,7.0906053
+2024-04-03,"BTP182 - 19th Main Junction, Rajajinagar",18.254456
+2024-04-03,"BTP186 - 9th Cross, 4th Main, Jayanagar",21.063425
+2024-04-03,"BTP188 - 27th Cross, 4th Main, Jayanagar",6.7320924
+2024-04-03,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",2.9694033
+2024-04-03,"BTP190 - 36th Cross, 4th Main, Jayanagar",3.135855
+2024-04-03,No Junction,941.88544
+2024-04-03,"BTP204 - ESI Hospital, Rajajinagar",6.203976
+2024-04-03,"BTP226 - 33rd Cross, 11th Main, Jayanagar",4.8263197
+2024-04-03,BTP205 - Modi Hospital Junction,4.6407566
+2024-04-03,"BTP210 - 50th cross, 12th Main , Rajajinagar",5.011932
+2024-04-03,BTP211 - Central Street Junction,27.474947
+2024-04-03,BTP215 - Vanivillas Junction,5.7549753
+2024-04-03,BTP218 - Syndicate Bank Junction,3.5429504
+2024-04-03,"BTP189 - New Diagonal Road, Jayanagar",4.9376483
+2024-04-04,BTP020 - Hosahalli Metro Station,25.321444
+2024-04-04,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",14.887338
+2024-04-04,BTP010 - Rajajinagar Entrance,5.817781
+2024-04-04,"BTP094 - Sri Skanda Complex, Mysore Road",3.225266
+2024-04-04,BTP006 - Navarang Bar Junction,4.563306
+2024-04-04,"BTP001 - 10th Cross, Dr. Rajkumar Road",29.18973
+2024-04-04,"BTP022 - Marenahalli Junction, Vijayanagar",9.268393
+2024-04-04,BTP008 - Navarang Theatre,13.575146
+2024-04-04,BTP023 - Mahalaxmi Layout Entrance,18.062761
+2024-04-04,BTP043 - Upparpet Junction,12.552962
+2024-04-04,"BTP026 - 1st Block Junction, Rajajinagar",8.963634
+2024-04-04,BTP027 - Modi Bridge Junction,33.406128
+2024-04-04,BTP028 - Vijayanagar Bus Stand Junction,7.9813447
+2024-04-04,BTP030 - Mekhri Circle,8.136919
+2024-04-04,BTP032 - Windsor Circle,6.993564
+2024-04-04,BTP038 - Mysore Bank Junction,11.030952
+2024-04-04,BTP040 - Elite Junction,77.01296
+2024-04-04,BTP042 - Minsk Square Junction (CTO),14.332676
+2024-04-04,BTP044 - Sagar Theatre Junction,51.225056
+2024-04-04,"BTP024 - NPS, Vijayanagar",15.017433
+2024-04-04,BTP045 - Danvanthri Road Junction,21.61091
+2024-04-04,BTP076 - Hudson Circle,5.7411084
+2024-04-04,BTP051 - Safina Plaza Junction,76.42777
+2024-04-04,"BTP093 - Toll Gate, Mysore Road",4.5642076
+2024-04-04,BTP054 - Shivananda Circle,7.70684
+2024-04-04,BTP071 - Prasanna Junction,4.4064617
+2024-04-04,BTP057 - Anand Rao Junction,32.540794
+2024-04-04,BTP058 - Subbanna Junction,31.461988
+2024-04-04,BTP061 - Bhashyam Circle,5.713378
+2024-04-04,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",6.047931
+2024-04-04,BTP063 - Siddalingaiah Circle,9.375796
+2024-04-04,BTP069 - MC Circle,8.291757
+2024-04-04,"BTP070 - Cholurpalya Junction, Magadi Road",11.78057
+2024-04-04,"BTP083 - AS Char Street, Mysore Road",18.113384
+2024-04-04,BTP074 - Leprosy Hospital Junction,12.159226
+2024-04-04,BTP077 - Halasuru Gate Junction,3.225266
+2024-04-04,"BTP080 - NR Road, SP Road Junction",36.804096
+2024-04-04,BTP082 - KR Market Junction,82.680695
+2024-04-04,BTP085 - Briyand Circle,5.654304
+2024-04-04,BTP091 - Sirsi Circle,5.7650495
+2024-04-04,BTP092 - Bangalore Builders Junction,3.225266
+2024-04-04,BTP048 - Shanthala Junction,10.021729
+2024-04-04,"BTP015 - Suguna Hospital, Dr. Rajkumar Road",5.1170955
+2024-04-04,"BTP182 - 19th Main Junction, Rajajinagar",14.542628
+2024-04-04,"BTP089 - Police Quarters, Sultan Road",3.2926579
+2024-04-04,BTP167 - JC Road Junction,11.681883
+2024-04-04,"BTP163 - 16th Main Road, BTM Layout",5.980356
+2024-04-04,BTP103 - Shanti Nagar TTMC,3.1359158
+2024-04-04,BTP104 - Medical College Circle,11.748479
+2024-04-04,BTP108 - Tagore Park Junction,17.072096
+2024-04-04,"BTP115 - Sahasra Hospital, Jayanagar",3.2033067
+2024-04-04,BTP118 - Basappa Circle,8.590861
+2024-04-04,BTP120 - Lalbagh Main Gate Junction,2.4335122
+2024-04-04,"BTP123 - 10th Cross, Wilson Garden",13.358052
+2024-04-04,BTP128 - Gorappanapalya Junction,2.9820905
+2024-04-04,BTP100 - Richmond Circle,3.4170423
+2024-04-04,BTP133 - Adugodi Junction,3.5571346
+2024-04-04,BTP154 - Itmadu Junction,2.9820905
+2024-04-04,BTP135 - UCO Bank Junction,6.9440236
+2024-04-04,BTP155 - Katriguppe Junction,11.209172
+2024-04-04,"BTP159 - JP Nagar Metro, ORR",3.036855
+2024-04-04,BTP146 - Domlur Water Tank,2.9820905
+2024-04-04,BTP137 - Madiwala Traffic PS Junction,6.5731764
+2024-04-04,BTP136 - Hosur-Tavarkere Road Junction,4.3210316
+2024-04-04,BTP096 - Gali Anjaneya Temple,6.324031
+2024-04-04,BTP130 - GD Mara Junction,16.776182
+2024-04-04,"BTP164 - 29th Main Road, BTM Layout",5.4111276
+2024-04-04,BTP157 - Kadirenahalli Cross,2.9820905
+2024-04-04,"BTP170 - Dr. Bheem Rao Palace, Chord Road",8.411891
+2024-04-04,"BTP202 - East End Main Road, Jayanagar",2.9820905
+2024-04-04,BTP173 - TMC,4.3210316
+2024-04-04,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",4.5935955
+2024-04-04,"BTP177 - Aurobindo Circle, ORR",3.0494819
+2024-04-04,BTP184 - Lalbagh West Gate,3.2033067
+2024-04-04,"BTP190 - 36th Cross, 4th Main, Jayanagar",4.3210316
+2024-04-04,BTP192 - Urvashi Theater,7.725032
+2024-04-04,"BTP204 - ESI Hospital, Rajajinagar",11.896319
+2024-04-04,BTP205 - Modi Hospital Junction,8.073995
+2024-04-04,"BTP206 - Shankara Mutt Circle, Vijayanagar",3.1404257
+2024-04-04,"BTP186 - 9th Cross, 4th Main, Jayanagar",12.68036
+2024-04-04,BTP211 - Central Street Junction,71.05068
+2024-04-04,BTP212 - Minto Junction,2.9820905
+2024-04-04,BTP215 - Vanivillas Junction,3.389186
+2024-04-04,BTP217 - Baleyele Junction,2.92972
+2024-04-04,"BTP221 - 15th Cross, 24th Main, JP Nagar",2.92972
+2024-04-04,BTP225 - Geetha Junction,2.9971113
+2024-04-04,No Junction,867.3869
+2024-04-04,BTP208 - Havanur Circle,6.9440236
+2024-04-04,"BTP099 - Cash Pharmacy, Residency Road",5.028547
+2024-04-05,BTP103 - Shanti Nagar TTMC,4.564195
+2024-04-05,BTP008 - Navarang Theatre,9.707326
+2024-04-05,BTP010 - Rajajinagar Entrance,7.4413066
+2024-04-05,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",8.389585
+2024-04-05,BTP018 - Dhobi Ghat Junction,6.035066
+2024-04-05,"BTP022 - Marenahalli Junction, Vijayanagar",7.200969
+2024-04-05,BTP027 - Modi Bridge Junction,36.01954
+2024-04-05,BTP040 - Elite Junction,58.643066
+2024-04-05,"BTP026 - 1st Block Junction, Rajajinagar",10.474132
+2024-04-05,BTP028 - Vijayanagar Bus Stand Junction,7.3785477
+2024-04-05,BTP032 - Windsor Circle,6.9140134
+2024-04-05,BTP023 - Mahalaxmi Layout Entrance,13.813917
+2024-04-05,BTP030 - Mekhri Circle,8.432131
+2024-04-05,"BTP024 - NPS, Vijayanagar",10.276216
+2024-04-05,BTP043 - Upparpet Junction,11.137765
+2024-04-05,BTP071 - Prasanna Junction,8.281665
+2024-04-05,BTP045 - Danvanthri Road Junction,20.34337
+2024-04-05,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.6674867
+2024-04-05,BTP038 - Mysore Bank Junction,10.907929
+2024-04-05,BTP048 - Shanthala Junction,7.2780232
+2024-04-05,BTP051 - Safina Plaza Junction,58.966854
+2024-04-05,BTP054 - Shivananda Circle,9.566993
+2024-04-05,BTP057 - Anand Rao Junction,36.616863
+2024-04-05,BTP058 - Subbanna Junction,30.874784
+2024-04-05,BTP061 - Bhashyam Circle,8.241269
+2024-04-05,BTP063 - Siddalingaiah Circle,8.042623
+2024-04-05,BTP069 - MC Circle,15.952367
+2024-04-05,BTP044 - Sagar Theatre Junction,51.60549
+2024-04-05,"BTP080 - NR Road, SP Road Junction",30.811068
+2024-04-05,BTP082 - KR Market Junction,61.371613
+2024-04-05,BTP091 - Sirsi Circle,3.569559
+2024-04-05,"BTP095 - Satellite Bus Stand, Mysore Road",3.1707551
+2024-04-05,"BTP001 - 10th Cross, Dr. Rajkumar Road",9.810154
+2024-04-05,BTP098 - Nayandahalli Junction,3.50638
+2024-04-05,"BTP189 - New Diagonal Road, Jayanagar",7.326035
+2024-04-05,BTP104 - Medical College Circle,11.507769
+2024-04-05,BTP126 - Dairy Circle,3.480208
+2024-04-05,"BTP113 - 27th Cross, Pai Vista, KR Road",3.2252536
+2024-04-05,BTP155 - Katriguppe Junction,8.17214
+2024-04-05,BTP109 - Dewan Madhava Rao Junction,3.2926445
+2024-04-05,"BTP115 - Sahasra Hospital, Jayanagar",4.9475055
+2024-04-05,BTP120 - Lalbagh Main Gate Junction,4.682934
+2024-04-05,"BTP168 - MSR Building, JC Road",3.0714283
+2024-04-05,"BTP123 - 10th Cross, Wilson Garden",8.579907
+2024-04-05,"BTP127 - Sagar Hospital, Jayanagar",3.2252536
+2024-04-05,BTP136 - Hosur-Tavarkere Road Junction,4.41037
+2024-04-05,BTP137 - Madiwala Traffic PS Junction,5.741096
+2024-04-05,BTP138 - Sarjapur Road Check Post,3.0714283
+2024-04-05,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.0714283
+2024-04-05,BTP074 - Leprosy Hospital Junction,11.908835
+2024-04-05,"BTP117 - 9th Cross, Kanakapura Road",5.2391815
+2024-04-05,BTP205 - Modi Hospital Junction,9.093151
+2024-04-05,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.2926445
+2024-04-05,No Junction,946.6319
+2024-04-05,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",5.500466
+2024-04-05,BTP184 - Lalbagh West Gate,5.765037
+2024-04-05,"BTP186 - 9th Cross, 4th Main, Jayanagar",13.0033245
+2024-04-05,"BTP188 - 27th Cross, 4th Main, Jayanagar",7.0630345
+2024-04-05,"BTP177 - Aurobindo Circle, ORR",3.1388197
+2024-04-05,BTP193 - Vasavi Circle,4.41037
+2024-04-05,"BTP202 - East End Main Road, Jayanagar",4.682934
+2024-04-05,BTP192 - Urvashi Theater,8.064467
+2024-04-05,BTP207 - 8th Main Road Basaveshwara Nagar,3.2843814
+2024-04-05,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.2926445
+2024-04-05,BTP211 - Central Street Junction,40.257584
+2024-04-05,BTP215 - Vanivillas Junction,7.1768837
+2024-04-05,"BTP226 - 33rd Cross, 11th Main, Jayanagar",4.2478085
+2024-04-05,BTP108 - Tagore Park Junction,19.79213
+2024-04-05,"BTP206 - Shankara Mutt Circle, Vijayanagar",8.064467
+2024-04-06,BTP051 - Safina Plaza Junction,69.94155
+2024-04-06,BTP045 - Danvanthri Road Junction,22.576399
+2024-04-06,BTP044 - Sagar Theatre Junction,71.66723
+2024-04-06,BTP043 - Upparpet Junction,9.795616
+2024-04-06,BTP042 - Minsk Square Junction (CTO),7.988814
+2024-04-06,BTP040 - Elite Junction,76.80602
+2024-04-06,BTP108 - Tagore Park Junction,30.179804
+2024-04-06,BTP027 - Modi Bridge Junction,31.697435
+2024-04-06,"BTP024 - NPS, Vijayanagar",16.103785
+2024-04-06,BTP023 - Mahalaxmi Layout Entrance,17.450272
+2024-04-06,"BTP022 - Marenahalli Junction, Vijayanagar",7.983732
+2024-04-06,BTP008 - Navarang Theatre,16.774225
+2024-04-06,BTP054 - Shivananda Circle,7.024946
+2024-04-06,BTP038 - Mysore Bank Junction,8.422799
+2024-04-06,BTP032 - Windsor Circle,8.7946415
+2024-04-06,"BTP080 - NR Road, SP Road Junction",30.53003
+2024-04-06,"BTP102 - BMTC Junction, KH Road",3.2786546
+2024-04-06,BTP057 - Anand Rao Junction,36.904957
+2024-04-06,BTP085 - Briyand Circle,3.4353967
+2024-04-06,"BTP083 - AS Char Street, Mysore Road",14.377033
+2024-04-06,BTP082 - KR Market Junction,70.84245
+2024-04-06,BTP078 - NR Square Junction,3.3680048
+2024-04-06,"BTP070 - Cholurpalya Junction, Magadi Road",9.210962
+2024-04-06,BTP069 - MC Circle,11.345452
+2024-04-06,BTP068 - Veeresh Theatre Junction,3.9797492
+2024-04-06,BTP067 - Jai Muni Rao Circle,3.5610552
+2024-04-06,BTP063 - Siddalingaiah Circle,9.958271
+2024-04-06,BTP061 - Bhashyam Circle,8.830454
+2024-04-06,BTP071 - Prasanna Junction,6.933113
+2024-04-06,BTP104 - Medical College Circle,12.117984
+2024-04-06,BTP058 - Subbanna Junction,26.319387
+2024-04-06,"BTP001 - 10th Cross, Dr. Rajkumar Road",34.26459
+2024-04-06,BTP184 - Lalbagh West Gate,7.2115674
+2024-04-06,"BTP189 - New Diagonal Road, Jayanagar",12.491292
+2024-04-06,BTP109 - Dewan Madhava Rao Junction,6.053131
+2024-04-06,BTP180 - Swagath Poornima Theatre,3.1248293
+2024-04-06,"BTP177 - Aurobindo Circle, ORR",4.8050804
+2024-04-06,"BTP168 - MSR Building, JC Road",3.1248293
+2024-04-06,BTP158 - Devegowda Petrol Bunk,4.736335
+2024-04-06,"BTP148 - 17th Main, Doopanahalli Bus Stop",3.4916081
+2024-04-06,BTP135 - UCO Bank Junction,7.9861712
+2024-04-06,BTP130 - GD Mara Junction,9.400793
+2024-04-06,"BTP123 - 10th Cross, Wilson Garden",11.058667
+2024-04-06,BTP121 - KH Circle,3.1248293
+2024-04-06,BTP118 - Basappa Circle,5.984441
+2024-04-06,"BTP186 - 9th Cross, 4th Main, Jayanagar",13.072234
+2024-04-06,BTP136 - Hosur-Tavarkere Road Junction,4.617596
+2024-04-06,BTP187 - South End Circle,3.1248293
+2024-04-06,"BTP117 - 9th Cross, Kanakapura Road",5.4464083
+2024-04-06,"BTP191 - 40th Cross, 4th Main, Jayanagar",3.1248293
+2024-04-06,"BTP115 - Sahasra Hospital, Jayanagar",5.0009065
+2024-04-06,BTP212 - Minto Junction,3.1248293
+2024-04-06,No Junction,880.3851
+2024-04-06,"BTP226 - 33rd Cross, 11th Main, Jayanagar",5.80036
+2024-04-06,BTP225 - Geetha Junction,3.1398501
+2024-04-06,BTP217 - Baleyele Junction,3.0724587
+2024-04-06,BTP218 - Syndicate Bank Junction,3.3274126
+2024-04-06,BTP215 - Vanivillas Junction,13.306209
+2024-04-06,BTP211 - Central Street Junction,39.599262
+2024-04-06,"BTP210 - 50th cross, 12th Main , Rajajinagar",4.617596
+2024-04-06,BTP208 - Havanur Circle,6.869691
+2024-04-06,BTP203 - RRMR Junction,3.8424957
+2024-04-06,BTP192 - Urvashi Theater,6.7159157
+2024-04-06,BTP216 - Yediyur Junction,3.0724587
+2024-04-07,BTP048 - Shanthala Junction,8.222045
+2024-04-07,"BTP026 - 1st Block Junction, Rajajinagar",7.178839
+2024-04-07,BTP108 - Tagore Park Junction,29.896185
+2024-04-07,"BTP001 - 10th Cross, Dr. Rajkumar Road",19.478855
+2024-04-07,BTP008 - Navarang Theatre,11.95783
+2024-04-07,"BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",6.895443
+2024-04-07,BTP030 - Mekhri Circle,4.0107384
+2024-04-07,BTP043 - Upparpet Junction,11.180315
+2024-04-07,"BTP033 - Sophia High School, Sankey Road",3.7227297
+2024-04-07,BTP034 - LRDE Junction,3.7227297
+2024-04-07,BTP038 - Mysore Bank Junction,11.455646
+2024-04-07,BTP040 - Elite Junction,78.270836
+2024-04-07,BTP041 - Gopal Gowda Circle,4.3527
+2024-04-07,BTP044 - Sagar Theatre Junction,70.05377
+2024-04-07,BTP045 - Danvanthri Road Junction,17.76906
+2024-04-07,BTP051 - Safina Plaza Junction,111.11264
+2024-04-07,BTP032 - Windsor Circle,7.257509
+2024-04-07,BTP027 - Modi Bridge Junction,22.719284
+2024-04-07,BTP067 - Jai Muni Rao Circle,3.5802538
+2024-04-07,BTP104 - Medical College Circle,13.562965
+2024-04-07,BTP058 - Subbanna Junction,77.998116
+2024-04-07,BTP074 - Leprosy Hospital Junction,10.102657
+2024-04-07,BTP057 - Anand Rao Junction,40.744656
+2024-04-07,BTP061 - Bhashyam Circle,8.313869
+2024-04-07,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",3.7400863
+2024-04-07,BTP047 - Vidhan Soudha Metro Station,4.375785
+2024-04-07,BTP068 - Veeresh Theatre Junction,5.3215284
+2024-04-07,"BTP070 - Cholurpalya Junction, Magadi Road",10.740484
+2024-04-07,BTP054 - Shivananda Circle,8.306649
+2024-04-07,BTP071 - Prasanna Junction,4.8285604
+2024-04-07,"BTP080 - NR Road, SP Road Junction",27.47949
+2024-04-07,BTP082 - KR Market Junction,87.36948
+2024-04-07,"BTP083 - AS Char Street, Mysore Road",17.820456
+2024-04-07,BTP085 - Briyand Circle,3.4545953
+2024-04-07,BTP091 - Sirsi Circle,3.6421587
+2024-04-07,BTP096 - Gali Anjaneya Temple,6.2637105
+2024-04-07,"BTP099 - Cash Pharmacy, Residency Road",3.5789797
+2024-04-07,BTP052 - CID Carlton House Junction,3.743078
+2024-04-07,"BTP095 - Satellite Bus Stand, Mysore Road",3.6463706
+2024-04-07,BTP106 - VV Puram College,3.144028
+2024-04-07,BTP023 - Mahalaxmi Layout Entrance,20.88306
+2024-04-07,BTP109 - Dewan Madhava Rao Junction,4.7475414
+2024-04-07,BTP146 - Domlur Water Tank,3.144028
+2024-04-07,"BTP179 - 9th Block, 28th Main, Jayanagar",3.8616943
+2024-04-07,BTP118 - Basappa Circle,5.474132
+2024-04-07,BTP120 - Lalbagh Main Gate Junction,3.144028
+2024-04-07,BTP126 - Dairy Circle,3.5528076
+2024-04-07,"BTP127 - Sagar Hospital, Jayanagar",3.144028
+2024-04-07,BTP135 - UCO Bank Junction,8.11602
+2024-04-07,BTP136 - Hosur-Tavarkere Road Junction,6.07233
+2024-04-07,BTP137 - Madiwala Traffic PS Junction,3.8621213
+2024-04-07,"BTP123 - 10th Cross, Wilson Garden",10.453598
+2024-04-07,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.837637
+2024-04-07,"BTP170 - Dr. Bheem Rao Palace, Chord Road",5.057872
+2024-04-07,BTP171 - Indian Express (Balekundri),3.144028
+2024-04-07,BTP173 - TMC,3.144028
+2024-04-07,BTP155 - Katriguppe Junction,9.553623
+2024-04-07,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",3.144028
+2024-04-07,"BTP163 - 16th Main Road, BTM Layout",4.7475414
+2024-04-07,"BTP182 - 19th Main Junction, Rajajinagar",9.894814
+2024-04-07,BTP219 - Canara Bank Junction,3.3128736
+2024-04-07,BTP166 - Coffee Board Junction,3.144028
+2024-04-07,No Junction,900.981
+2024-04-07,"BTP210 - 50th cross, 12th Main , Rajajinagar",3.3652442
+2024-04-07,BTP185 - RV Teachers College,3.144028
+2024-04-07,"BTP186 - 9th Cross, 4th Main, Jayanagar",15.1334305
+2024-04-07,BTP187 - South End Circle,4.4829698
+2024-04-07,BTP192 - Urvashi Theater,5.813696
+2024-04-07,"BTP202 - East End Main Road, Jayanagar",3.8616943
+2024-04-07,"BTP204 - ESI Hospital, Rajajinagar",7.3247595
+2024-04-07,BTP205 - Modi Hospital Junction,6.668902
+2024-04-07,BTP207 - 8th Main Road Basaveshwara Nagar,3.3989818
+2024-04-07,"BTP188 - 27th Cross, 4th Main, Jayanagar",7.123124
+2024-04-07,BTP184 - Lalbagh West Gate,5.331645
+2024-04-07,BTP216 - Yediyur Junction,13.063177
+2024-04-07,BTP217 - Baleyele Junction,4.3577952
+2024-04-07,"BTP115 - Sahasra Hospital, Jayanagar",3.3652442
+2024-04-07,BTP220 - Puttanna Junction,3.1590488
+2024-04-07,BTP222 - Delmia Circle,3.0916574
+2024-04-07,"BTP226 - 33rd Cross, 11th Main, Jayanagar",6.5142746
+2024-04-07,BTP211 - Central Street Junction,30.819775
+2024-04-07,BTP225 - Geetha Junction,3.1590488
+2024-04-08,BTP044 - Sagar Theatre Junction,64.18171
+2024-04-08,BTP040 - Elite Junction,56.97617
+2024-04-08,BTP034 - LRDE Junction,6.672871
+2024-04-08,BTP027 - Modi Bridge Junction,32.864468
+2024-04-08,BTP023 - Mahalaxmi Layout Entrance,20.989193
+2024-04-08,BTP008 - Navarang Theatre,11.42773
+2024-04-08,BTP009 - Prakash Nagar Junction,4.602472
+2024-04-08,BTP006 - Navarang Bar Junction,4.602472
+2024-04-08,"BTP001 - 10th Cross, Dr. Rajkumar Road",17.464073
+2024-04-08,BTP045 - Danvanthri Road Junction,21.834415
+2024-04-08,BTP219 - Canara Bank Junction,3.1799655
+2024-04-08,"BTP016 - 5th Main Road, RPC Layout",10.23165
+2024-04-08,BTP085 - Briyand Circle,5.8371587
+2024-04-08,BTP071 - Prasanna Junction,7.5415525
+2024-04-08,BTP054 - Shivananda Circle,6.361429
+2024-04-08,BTP057 - Anand Rao Junction,38.844334
+2024-04-08,BTP058 - Subbanna Junction,61.629234
+2024-04-08,BTP061 - Bhashyam Circle,16.655193
+2024-04-08,"BTP062 - Basava Mantapa, Dr. Rajkumar Road",5.0835834
+2024-04-08,BTP063 - Siddalingaiah Circle,7.484036
+2024-04-08,"BTP070 - Cholurpalya Junction, Magadi Road",13.962652
+2024-04-08,BTP074 - Leprosy Hospital Junction,11.3433075
+2024-04-08,BTP076 - Hudson Circle,4.759197
+2024-04-08,"BTP080 - NR Road, SP Road Junction",27.46526
+2024-04-08,BTP082 - KR Market Junction,82.333885
+2024-04-08,"BTP083 - AS Char Street, Mysore Road",18.837603
+2024-04-08,BTP047 - Vidhan Soudha Metro Station,6.912386
+2024-04-08,BTP037 - KR Circle,3.8216467
+2024-04-08,BTP108 - Tagore Park Junction,20.706114
+2024-04-08,BTP184 - Lalbagh West Gate,8.194523
+2024-04-08,BTP051 - Safina Plaza Junction,38.79218
+2024-04-08,"BTP148 - 17th Main, Doopanahalli Bus Stop",5.041022
+2024-04-08,"BTP145 - Sri Hatti Maramma Circle, Domluru",3.1649446
+2024-04-08,BTP140 - Madiwala Check Post,3.3778977
+2024-04-08,BTP135 - UCO Bank Junction,8.381571
+2024-04-08,BTP130 - GD Mara Junction,9.995718
+2024-04-08,"BTP123 - 10th Cross, Wilson Garden",10.417311
+2024-04-08,BTP126 - Dairy Circle,4.768458
+2024-04-08,BTP109 - Dewan Madhava Rao Junction,5.041022
+2024-04-08,BTP171 - Indian Express (Balekundri),5.593982
+2024-04-08,BTP104 - Medical College Circle,14.449543
+2024-04-08,"BTP127 - Sagar Hospital, Jayanagar",4.503886
+2024-04-08,"BTP095 - Satellite Bus Stand, Mysore Road",6.1396794
+2024-04-08,"BTP182 - 19th Main Junction, Rajajinagar",9.995718
+2024-04-08,"BTP186 - 9th Cross, 4th Main, Jayanagar",18.0655
+2024-04-08,"BTP188 - 27th Cross, 4th Main, Jayanagar",8.6568775
+2024-04-08,BTP192 - Urvashi Theater,9.049034
+2024-04-08,BTP193 - Vasavi Circle,3.1649446
+2024-04-08,"BTP200 - 15th Cross, 33rd Main, JP Nagar",3.1649446
+2024-04-08,"BTP204 - ESI Hospital, Rajajinagar",13.563363
+2024-04-08,BTP208 - Havanur Circle,8.581032
+2024-04-08,BTP211 - Central Street Junction,24.310575
+2024-04-08,BTP215 - Vanivillas Junction,6.6072016
+2024-04-08,BTP216 - Yediyur Junction,3.5213537
+2024-04-08,BTP218 - Syndicate Bank Junction,4.489458
+2024-04-08,BTP096 - Gali Anjaneya Temple,9.142157
+2024-04-08,"BTP210 - 50th cross, 12th Main , Rajajinagar",6.747549
+2024-04-08,No Junction,885.1306
